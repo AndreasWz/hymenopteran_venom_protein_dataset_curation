@@ -1,0 +1,128 @@
+2025-01-08 16:34:23,124 - INFO - Starting UniProt sequence fetch process
+2025-01-08 16:34:23,124 - INFO - Input file: Hym/Hymenoptera_toxins/Dataset_filtered_remove_uncertain.csv
+2025-01-08 16:34:23,124 - INFO - Output file: Hym/Hymenoptera_toxins/Dataset_filtered_remove_uncertain_with_fetched_sequences.csv
+2025-01-08 16:34:23,125 - INFO - Found missing sequences for A0A6P3UL88 at line 6
+2025-01-08 16:34:23,259 - INFO - Successfully fetched sequence for A0A6P3UL88 (408 bp)
+2025-01-08 16:34:23,260 - INFO - Found missing sequences for A0A833RGU8 at line 12
+2025-01-08 16:34:23,463 - INFO - Successfully fetched sequence for A0A833RGU8 (432 bp)
+2025-01-08 16:34:23,464 - INFO - Found missing sequences for A0A0M9AAI3 at line 15
+2025-01-08 16:34:23,586 - INFO - Successfully fetched sequence for A0A0M9AAI3 (409 bp)
+2025-01-08 16:34:23,587 - INFO - Found missing sequences for A0A154PK09 at line 23
+2025-01-08 16:34:23,702 - INFO - Successfully fetched sequence for A0A154PK09 (404 bp)
+2025-01-08 16:34:23,702 - INFO - Found missing sequences for A0A026WAD8 at line 35
+2025-01-08 16:34:23,828 - INFO - Successfully fetched sequence for A0A026WAD8 (409 bp)
+2025-01-08 16:34:23,829 - INFO - Found missing sequences for E2B167 at line 43
+2025-01-08 16:34:23,956 - INFO - Successfully fetched sequence for E2B167 (390 bp)
+2025-01-08 16:34:23,957 - INFO - Found missing sequences for A0A0J7K585 at line 51
+2025-01-08 16:34:24,107 - INFO - Successfully fetched sequence for A0A0J7K585 (369 bp)
+2025-01-08 16:34:24,108 - INFO - Found missing sequences for F4WFK0 at line 52
+2025-01-08 16:34:24,236 - INFO - Successfully fetched sequence for F4WFK0 (403 bp)
+2025-01-08 16:34:24,236 - INFO - Found missing sequences for A0A158NSL2 at line 53
+2025-01-08 16:34:24,480 - INFO - Successfully fetched sequence for A0A158NSL2 (403 bp)
+2025-01-08 16:34:24,481 - INFO - Found missing sequences for A0A151HZE5 at line 54
+2025-01-08 16:34:24,595 - INFO - Successfully fetched sequence for A0A151HZE5 (402 bp)
+2025-01-08 16:34:24,596 - INFO - Found missing sequences for A0A6J1PVP7 at line 60
+2025-01-08 16:34:25,595 - INFO - Successfully fetched sequence for A0A6J1PVP7 (404 bp)
+2025-01-08 16:34:25,595 - INFO - Found missing sequences for A0A195FSS6 at line 63
+2025-01-08 16:34:25,733 - INFO - Successfully fetched sequence for A0A195FSS6 (396 bp)
+2025-01-08 16:34:25,733 - INFO - Found missing sequences for A0A6P3X186 at line 74
+2025-01-08 16:34:25,853 - INFO - Successfully fetched sequence for A0A6P3X186 (406 bp)
+2025-01-08 16:34:25,853 - INFO - Found missing sequences for A0A2R4SV17 at line 94
+2025-01-08 16:34:26,010 - INFO - Successfully fetched sequence for A0A2R4SV17 (405 bp)
+2025-01-08 16:34:26,010 - INFO - Processed 100 rows...
+2025-01-08 16:34:26,010 - INFO - Found missing sequences for A0A0C9RY44 at line 114
+2025-01-08 16:34:26,147 - INFO - Successfully fetched sequence for A0A0C9RY44 (361 bp)
+2025-01-08 16:34:26,148 - INFO - Processed 200 rows...
+2025-01-08 16:34:26,149 - INFO - Processed 300 rows...
+2025-01-08 16:34:26,149 - INFO - Found missing sequences for A0A2A3EM02 at line 389
+2025-01-08 16:34:26,269 - INFO - Successfully fetched sequence for A0A2A3EM02 (778 bp)
+2025-01-08 16:34:26,269 - INFO - Found missing sequences for A0A6P8M0Q5 at line 398
+2025-01-08 16:34:26,421 - INFO - Successfully fetched sequence for A0A6P8M0Q5 (672 bp)
+2025-01-08 16:34:26,422 - INFO - Found missing sequences for A0A6P6F7S4 at line 400
+2025-01-08 16:34:26,619 - INFO - Successfully fetched sequence for A0A6P6F7S4 (672 bp)
+2025-01-08 16:34:26,620 - INFO - Processed 400 rows...
+2025-01-08 16:34:26,620 - INFO - Found missing sequences for A0A310SPV5 at line 408
+2025-01-08 16:34:26,746 - INFO - Successfully fetched sequence for A0A310SPV5 (678 bp)
+2025-01-08 16:34:26,747 - INFO - Found missing sequences for A0A833RQC6 at line 411
+2025-01-08 16:34:26,857 - INFO - Successfully fetched sequence for A0A833RQC6 (751 bp)
+2025-01-08 16:34:26,857 - INFO - Found missing sequences for A0A0L7QVP2 at line 413
+2025-01-08 16:34:26,973 - INFO - Successfully fetched sequence for A0A0L7QVP2 (683 bp)
+2025-01-08 16:34:26,973 - INFO - Found missing sequences for A0A026WEB2 at line 432
+2025-01-08 16:34:27,084 - INFO - Successfully fetched sequence for A0A026WEB2 (829 bp)
+2025-01-08 16:34:27,084 - INFO - Found missing sequences for E2AF09 at line 435
+2025-01-08 16:34:27,262 - INFO - Successfully fetched sequence for E2AF09 (757 bp)
+2025-01-08 16:34:27,262 - INFO - Found missing sequences for F4WLY9 at line 439
+2025-01-08 16:34:27,393 - INFO - Successfully fetched sequence for F4WLY9 (727 bp)
+2025-01-08 16:34:27,393 - INFO - Found missing sequences for A0A195C860 at line 443
+2025-01-08 16:34:27,519 - INFO - Successfully fetched sequence for A0A195C860 (603 bp)
+2025-01-08 16:34:27,520 - INFO - Found missing sequences for A0A6J1PIB6 at line 452
+2025-01-08 16:34:27,634 - INFO - Successfully fetched sequence for A0A6J1PIB6 (547 bp)
+2025-01-08 16:34:27,634 - INFO - Found missing sequences for A0A195DE08 at line 454
+2025-01-08 16:34:27,780 - INFO - Successfully fetched sequence for A0A195DE08 (680 bp)
+2025-01-08 16:34:27,780 - INFO - Found missing sequences for A0A195FVS0 at line 456
+2025-01-08 16:34:27,927 - INFO - Successfully fetched sequence for A0A195FVS0 (745 bp)
+2025-01-08 16:34:27,928 - INFO - Found missing sequences for A0A6P3XMC8 at line 462
+2025-01-08 16:34:28,055 - INFO - Successfully fetched sequence for A0A6P3XMC8 (827 bp)
+2025-01-08 16:34:28,055 - INFO - Found missing sequences for E2B8W2 at line 466
+2025-01-08 16:34:28,165 - INFO - Successfully fetched sequence for E2B8W2 (817 bp)
+2025-01-08 16:34:28,166 - INFO - Found missing sequences for Q95PD7 at line 487
+2025-01-08 16:34:28,298 - INFO - Successfully fetched sequence for Q95PD7 (387 bp)
+2025-01-08 16:34:28,299 - INFO - Found missing sequences for I1VC83 at line 494
+2025-01-08 16:34:28,425 - INFO - Successfully fetched sequence for I1VC83 (381 bp)
+2025-01-08 16:34:28,426 - INFO - Found missing sequences for A0A6P8LUT8 at line 496
+2025-01-08 16:34:28,537 - INFO - Successfully fetched sequence for A0A6P8LUT8 (336 bp)
+2025-01-08 16:34:28,538 - INFO - Processed 500 rows...
+2025-01-08 16:34:28,538 - INFO - Found missing sequences for A0A0L7RCK4 at line 505
+2025-01-08 16:34:28,680 - INFO - Successfully fetched sequence for A0A0L7RCK4 (365 bp)
+2025-01-08 16:34:28,681 - INFO - Found missing sequences for A0A026WZP1 at line 521
+2025-01-08 16:34:28,805 - INFO - Successfully fetched sequence for A0A026WZP1 (311 bp)
+2025-01-08 16:34:28,805 - INFO - Found missing sequences for E2ADC1 at line 523
+2025-01-08 16:34:29,039 - INFO - Successfully fetched sequence for E2ADC1 (342 bp)
+2025-01-08 16:34:29,039 - INFO - Found missing sequences for A0A151J5V6 at line 536
+2025-01-08 16:34:29,470 - INFO - Successfully fetched sequence for A0A151J5V6 (336 bp)
+2025-01-08 16:34:29,470 - INFO - Found missing sequences for A0A151X5S8 at line 539
+2025-01-08 16:34:29,705 - INFO - Successfully fetched sequence for A0A151X5S8 (338 bp)
+2025-01-08 16:34:29,706 - INFO - Found missing sequences for E0AD89 at line 548
+2025-01-08 16:34:29,858 - INFO - Successfully fetched sequence for E0AD89 (345 bp)
+2025-01-08 16:34:29,858 - INFO - Found missing sequences for Q05FZ2 at line 553
+2025-01-08 16:34:29,973 - INFO - Successfully fetched sequence for Q05FZ2 (331 bp)
+2025-01-08 16:34:29,973 - INFO - Found missing sequences for P0CH89 at line 554
+2025-01-08 16:34:30,107 - INFO - Successfully fetched sequence for P0CH89 (31 bp)
+2025-01-08 16:34:30,108 - INFO - Found missing sequences for S6CWF7 at line 560
+2025-01-08 16:34:30,263 - INFO - Successfully fetched sequence for S6CWF7 (340 bp)
+2025-01-08 16:34:30,264 - INFO - Found missing sequences for B7S8A9 at line 563
+2025-01-08 16:34:30,382 - INFO - Successfully fetched sequence for B7S8A9 (316 bp)
+2025-01-08 16:34:30,382 - INFO - Found missing sequences for A0JCZ2 at line 564
+2025-01-08 16:34:30,499 - INFO - Successfully fetched sequence for A0JCZ2 (358 bp)
+2025-01-08 16:34:30,500 - INFO - Found missing sequences for A0A6J0BH91 at line 567
+2025-01-08 16:34:30,639 - INFO - Successfully fetched sequence for A0A6J0BH91 (409 bp)
+2025-01-08 16:34:30,640 - INFO - Processed 600 rows...
+2025-01-08 16:34:30,641 - INFO - Processed 700 rows...
+2025-01-08 16:34:30,642 - INFO - Processed 800 rows...
+2025-01-08 16:34:30,642 - INFO - Found missing sequences for P83451 at line 824
+2025-01-08 16:34:30,757 - INFO - Successfully fetched sequence for P83451 (40 bp)
+2025-01-08 16:34:30,758 - INFO - Found missing sequences for Q7M471 at line 885
+2025-01-08 16:34:30,872 - INFO - Successfully fetched sequence for Q7M471 (9 bp)
+2025-01-08 16:34:30,873 - INFO - Processed 900 rows...
+2025-01-08 16:34:30,873 - INFO - Found missing sequences for P83542 at line 923
+2025-01-08 16:34:31,059 - INFO - Successfully fetched sequence for P83542 (42 bp)
+2025-01-08 16:34:31,059 - INFO - Found missing sequences for P0DMB6 at line 934
+2025-01-08 16:34:32,288 - INFO - Successfully fetched sequence for P0DMB6 (23 bp)
+2025-01-08 16:34:32,289 - INFO - Found missing sequences for P0DUN9 at line 973
+2025-01-08 16:34:32,403 - INFO - Successfully fetched sequence for P0DUN9 (58 bp)
+2025-01-08 16:34:32,403 - INFO - Processed 1000 rows...
+2025-01-08 16:34:32,404 - INFO - Found missing sequences for A0A6M6RA65 at line 1014
+2025-01-08 16:34:32,529 - INFO - Successfully fetched sequence for A0A6M6RA65 (57 bp)
+2025-01-08 16:34:32,530 - INFO - Found missing sequences for P0CH88 at line 1030
+2025-01-08 16:34:32,705 - INFO - Successfully fetched sequence for P0CH88 (20 bp)
+2025-01-08 16:34:32,706 - INFO - Processed 1100 rows...
+2025-01-08 16:34:32,706 - INFO - Processed 1200 rows...
+2025-01-08 16:34:32,707 - INFO - Processed 1300 rows...
+2025-01-08 16:34:32,708 - INFO - Processed 1400 rows...
+2025-01-08 16:34:32,708 - INFO - Processed 1500 rows...
+2025-01-08 16:34:32,709 - INFO - 
+Process completed successfully!
+2025-01-08 16:34:32,709 - INFO - Total rows processed: 1503
+2025-01-08 16:34:32,709 - INFO - Rows with missing sequences: 52
+2025-01-08 16:34:32,709 - INFO - Successful sequence fetches: 52
+2025-01-08 16:34:32,709 - INFO - Updated dataset saved to Hym/Hymenoptera_toxins/Dataset_filtered_remove_uncertain_with_fetched_sequences.csv
