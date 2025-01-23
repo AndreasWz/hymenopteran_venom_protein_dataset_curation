@@ -10,27 +10,26 @@ The dataset curation process involved the following steps:
 1. **Check for Duplicates:**
    - Identified and removed redundant sequences to ensure protein uniqueness.
 
-2. **Check Mature Sequences for Signal Peptides:**
+2. **Add Missing Mature Sequences:**
+   - Filled in gaps by predicting and adding missing mature sequences where needed.
+
+3. **Proteins Containing Gaps:**
+   - Addressed proteins with alignment gaps to improve sequence quality.
+
+4. **Check Mature Sequences for Signal Peptides:**
    - Used SignalP 6.0 to identify and verify signal peptides.
    - Updated mature sequences based on SignalP predictions.
 
-3. **Add Missing Mature Sequences:**
-   - Filled in gaps by predicting and adding missing mature sequences where needed.
-
-### **Open Curation Tasks**
-1. **Proteins Identical in Different Organisms:**
-   - Investigated proteins that were identical across different species, which are currently removed.
-
-2. **Proteins Containing Gaps:**
-   - Addressed proteins with alignment or sequence gaps to improve sequence quality.
-
-3. **Add Full Sequences if Missing:**
-   - Found full sequences in the source organism if mature regions were incomplete.
-   - Retrieved prefixes and predicted signal peptides for these sequences.
+5. **Check Mature Sequences for Propeptides**
+   - Used DeepPeptide to identify and verify propeptides.
+   - Updated mature sequences based on DeepPeptide predictions.
 
 ## Tools and Software
 - **SignalP 6.0**: Used for signal peptide prediction.
-- Others (details provided in associated scripts).
+   https://github.com/fteufel/signalp-6.0
+- **DeepPeptide**: Used for Propeptide prediction
+   https://github.com/fteufel/DeepPeptide
+- Others (see scripts).
 
 ## Repository Structure
 ```
