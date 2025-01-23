@@ -33,9 +33,11 @@ The dataset curation process involved the following steps:
 
 ## Repository Structure
 ```
-├── data_and_logs/
-│   ├── # Log files generated from scripts, dataset in different stages
-├── src_hym/
+├── data/
+│   ├── # Dataset in different versions
+├── logs/
+│   ├── # Logs generated from scripts
+├── src/
 │   ├── # Scripts
 ├── curated_Dataset.xlsx    # The curated dataset file
 ├── README.md               # Project documentation (this file)
