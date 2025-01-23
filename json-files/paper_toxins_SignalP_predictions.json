@@ -1,0 +1,448 @@
+{
+  "INFO": {
+    "failedjobs": 0,
+    "size": 27
+  },
+  "CSV_FILE": "paper_out/prediction_results.txt",
+  "MATURE_FILE": "paper_out/processed_entries.fasta",
+  "GFF_FILE": "paper_out/output.gff3",
+  "ZIP_FILE": "",
+  "SEQUENCES": {
+    "MYRTX1-Pm1a": {
+      "Name": "lcl|OR128458.1_prot_WMI02496.1_1 [gene=MYRTX1-Pm1a] [protein=MYRTX1-Pm1a protein] [protein_id=WMI02496.1] [location=1..255] [gbkey=CDS]",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "paper_out/output_lcl_OR128458_1_prot_WMI02496_1_1__gene_MYRTX1_Pm1a___protein_MYRTX1_Pm1a_protein___protein_id_WMI02496_1___location_1__255___gbkey_CDS__plot.txt",
+      "Prediction": "Signal Peptide (Sec/SPI)",
+      "Likelihood": [
+        0.0193,
+        0.9807
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": "Cleavage site between pos. 23 and 24. Probability 0.985174"
+    },
+    "MYRTX1-Pm2a": {
+      "Name": "lcl|OR128459.1_prot_WMI02497.1_1 [gene=MYRTX1-Pm2a] [protein=MYRTX1-Pm2a protein] [protein_id=WMI02497.1] [location=1..270] [gbkey=CDS]",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "paper_out/output_lcl_OR128459_1_prot_WMI02497_1_1__gene_MYRTX1_Pm2a___protein_MYRTX1_Pm2a_protein___protein_id_WMI02497_1___location_1__270___gbkey_CDS__plot.txt",
+      "Prediction": "Signal Peptide (Sec/SPI)",
+      "Likelihood": [
+        0.0002,
+        0.9998
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": "Cleavage site between pos. 23 and 24. Probability 0.982730"
+    },
+    "MYRTX1-Pm3a": {
+      "Name": "lcl|OR128460.1_prot_WMI02498.1_1 [gene=MYRTX1-Pm3a] [protein=MYRTX1-Pm3a protein] [protein_id=WMI02498.1] [location=1..249] [gbkey=CDS]",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "paper_out/output_lcl_OR128460_1_prot_WMI02498_1_1__gene_MYRTX1_Pm3a___protein_MYRTX1_Pm3a_protein___protein_id_WMI02498_1___location_1__249___gbkey_CDS__plot.txt",
+      "Prediction": "Signal Peptide (Sec/SPI)",
+      "Likelihood": [
+        0.0276,
+        0.9724
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": "Cleavage site between pos. 23 and 24. Probability 0.982603"
+    },
+    "MYRTX1-Pm3b": {
+      "Name": "lcl|OR128461.1_prot_WMI02499.1_1 [gene=MYRTX1-Pm3b] [protein=MYRTX1-Pm3b protein] [protein_id=WMI02499.1] [location=1..249] [gbkey=CDS]",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "paper_out/output_lcl_OR128461_1_prot_WMI02499_1_1__gene_MYRTX1_Pm3b___protein_MYRTX1_Pm3b_protein___protein_id_WMI02499_1___location_1__249___gbkey_CDS__plot.txt",
+      "Prediction": "Signal Peptide (Sec/SPI)",
+      "Likelihood": [
+        0.0276,
+        0.9723
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": "Cleavage site between pos. 23 and 24. Probability 0.982585"
+    },
+    "MYRTX1-Pm4a": {
+      "Name": "lcl|OR128462.1_prot_WMI02500.1_1 [gene=MYRTX1-Pm4a] [protein=MYRTX1-Pm4a protein] [protein_id=WMI02500.1] [location=1..216] [gbkey=CDS]",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "paper_out/output_lcl_OR128462_1_prot_WMI02500_1_1__gene_MYRTX1_Pm4a___protein_MYRTX1_Pm4a_protein___protein_id_WMI02500_1___location_1__216___gbkey_CDS__plot.txt",
+      "Prediction": "Signal Peptide (Sec/SPI)",
+      "Likelihood": [
+        0.0003,
+        0.9997
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": "Cleavage site between pos. 23 and 24. Probability 0.984417"
+    },
+    "MYRTX1-Pm4b": {
+      "Name": "lcl|OR128463.1_prot_WMI02501.1_1 [gene=MYRTX1-Pm4b] [protein=MYRTX1-Pm4b protein] [protein_id=WMI02501.1] [location=1..216] [gbkey=CDS]",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "paper_out/output_lcl_OR128463_1_prot_WMI02501_1_1__gene_MYRTX1_Pm4b___protein_MYRTX1_Pm4b_protein___protein_id_WMI02501_1___location_1__216___gbkey_CDS__plot.txt",
+      "Prediction": "Signal Peptide (Sec/SPI)",
+      "Likelihood": [
+        0.0003,
+        0.9997
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": "Cleavage site between pos. 23 and 24. Probability 0.984419"
+    },
+    "MYRTX1-Pm5a": {
+      "Name": "lcl|OR128464.1_prot_WMI02502.1_1 [gene=MYRTX1-Pm5a] [protein=MYRTX1-Pm5a protein] [protein_id=WMI02502.1] [location=1..186] [gbkey=CDS]",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "paper_out/output_lcl_OR128464_1_prot_WMI02502_1_1__gene_MYRTX1_Pm5a___protein_MYRTX1_Pm5a_protein___protein_id_WMI02502_1___location_1__186___gbkey_CDS__plot.txt",
+      "Prediction": "Signal Peptide (Sec/SPI)",
+      "Likelihood": [
+        0.0002,
+        0.9998
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": "Cleavage site between pos. 23 and 24. Probability 0.988566"
+    },
+    "MYRTX1-Pm8a": {
+      "Name": "lcl|OR128465.1_prot_WMI02503.1_1 [gene=MYRTX1-Pm8a] [protein=MYRTX1-Pm8a protein] [protein_id=WMI02503.1] [location=1..315] [gbkey=CDS]",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "paper_out/output_lcl_OR128465_1_prot_WMI02503_1_1__gene_MYRTX1_Pm8a___protein_MYRTX1_Pm8a_protein___protein_id_WMI02503_1___location_1__315___gbkey_CDS__plot.txt",
+      "Prediction": "Signal Peptide (Sec/SPI)",
+      "Likelihood": [
+        0.0003,
+        0.9997
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": "Cleavage site between pos. 23 and 24. Probability 0.978719"
+    },
+    "MYRTX1-Pm7a": {
+      "Name": "lcl|OR128466.1_prot_WMI02504.1_1 [gene=MYRTX1-Pm7a] [protein=MYRTX1-Pm7a protein] [protein_id=WMI02504.1] [location=1..174] [gbkey=CDS]",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "paper_out/output_lcl_OR128466_1_prot_WMI02504_1_1__gene_MYRTX1_Pm7a___protein_MYRTX1_Pm7a_protein___protein_id_WMI02504_1___location_1__174___gbkey_CDS__plot.txt",
+      "Prediction": "Signal Peptide (Sec/SPI)",
+      "Likelihood": [
+        0.0003,
+        0.9997
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": "Cleavage site between pos. 23 and 24. Probability 0.982350"
+    },
+    "MYRTX1-Pm7b": {
+      "Name": "lcl|OR128467.1_prot_WMI02505.1_1 [gene=MYRTX1-Pm7b] [protein=MYRTX1-Pm7b protein] [protein_id=WMI02505.1] [location=1..174] [gbkey=CDS]",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "paper_out/output_lcl_OR128467_1_prot_WMI02505_1_1__gene_MYRTX1_Pm7b___protein_MYRTX1_Pm7b_protein___protein_id_WMI02505_1___location_1__174___gbkey_CDS__plot.txt",
+      "Prediction": "Signal Peptide (Sec/SPI)",
+      "Likelihood": [
+        0.0003,
+        0.9997
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": "Cleavage site between pos. 23 and 24. Probability 0.982350"
+    },
+    "MYRTX1-Pm6a": {
+      "Name": "lcl|OR128468.1_prot_WMI02506.1_1 [gene=MYRTX1-Pm6a] [protein=MYRTX1-Pm6a protein] [protein_id=WMI02506.1] [location=1..204] [gbkey=CDS]",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "paper_out/output_lcl_OR128468_1_prot_WMI02506_1_1__gene_MYRTX1_Pm6a___protein_MYRTX1_Pm6a_protein___protein_id_WMI02506_1___location_1__204___gbkey_CDS__plot.txt",
+      "Prediction": "Signal Peptide (Sec/SPI)",
+      "Likelihood": [
+        0.0002,
+        0.9998
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": "Cleavage site between pos. 23 and 24. Probability 0.982648"
+    },
+    "MYRTX1-Pr4a": {
+      "Name": "lcl|OR128469.1_prot_WMI02507.1_1 [gene=MYRTX1-Pr4a] [protein=MYRTX1-Pr4a protein] [protein_id=WMI02507.1] [location=1..183] [gbkey=CDS]",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "paper_out/output_lcl_OR128469_1_prot_WMI02507_1_1__gene_MYRTX1_Pr4a___protein_MYRTX1_Pr4a_protein___protein_id_WMI02507_1___location_1__183___gbkey_CDS__plot.txt",
+      "Prediction": "Signal Peptide (Sec/SPI)",
+      "Likelihood": [
+        0.0002,
+        0.9998
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": "Cleavage site between pos. 23 and 24. Probability 0.988244"
+    },
+    "MYRTX1-Pr4b": {
+      "Name": "lcl|OR128470.1_prot_WMI02508.1_1 [gene=MYRTX1-Pr4b] [protein=MYRTX1-Pr4b protein] [protein_id=WMI02508.1] [location=1..183] [gbkey=CDS]",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "paper_out/output_lcl_OR128470_1_prot_WMI02508_1_1__gene_MYRTX1_Pr4b___protein_MYRTX1_Pr4b_protein___protein_id_WMI02508_1___location_1__183___gbkey_CDS__plot.txt",
+      "Prediction": "Signal Peptide (Sec/SPI)",
+      "Likelihood": [
+        0.0002,
+        0.9998
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": "Cleavage site between pos. 23 and 24. Probability 0.989085"
+    },
+    "MYRTX1-Pr4c": {
+      "Name": "lcl|OR128471.1_prot_WMI02509.1_1 [gene=MYRTX1-Pr4c] [protein=MYRTX1-Pr4c protein] [protein_id=WMI02509.1] [location=1..183] [gbkey=CDS]",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "paper_out/output_lcl_OR128471_1_prot_WMI02509_1_1__gene_MYRTX1_Pr4c___protein_MYRTX1_Pr4c_protein___protein_id_WMI02509_1___location_1__183___gbkey_CDS__plot.txt",
+      "Prediction": "Signal Peptide (Sec/SPI)",
+      "Likelihood": [
+        0.0003,
+        0.9997
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": "Cleavage site between pos. 23 and 24. Probability 0.988623"
+    },
+    "MYRTX1-Pr7a": {
+      "Name": "lcl|OR128472.1_prot_WMI02510.1_1 [gene=MYRTX1-Pr7a] [protein=MYRTX1-Pr7a protein] [protein_id=WMI02510.1] [location=1..315] [gbkey=CDS]",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "paper_out/output_lcl_OR128472_1_prot_WMI02510_1_1__gene_MYRTX1_Pr7a___protein_MYRTX1_Pr7a_protein___protein_id_WMI02510_1___location_1__315___gbkey_CDS__plot.txt",
+      "Prediction": "Signal Peptide (Sec/SPI)",
+      "Likelihood": [
+        0.0003,
+        0.9997
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": "Cleavage site between pos. 23 and 24. Probability 0.985148"
+    },
+    "MYRTX1-Pr1a": {
+      "Name": "lcl|OR128473.1_prot_WMI02511.1_1 [gene=MYRTX1-Pr1a] [protein=MYRTX1-Pr1a protein] [protein_id=WMI02511.1] [location=1..243] [gbkey=CDS]",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "paper_out/output_lcl_OR128473_1_prot_WMI02511_1_1__gene_MYRTX1_Pr1a___protein_MYRTX1_Pr1a_protein___protein_id_WMI02511_1___location_1__243___gbkey_CDS__plot.txt",
+      "Prediction": "Signal Peptide (Sec/SPI)",
+      "Likelihood": [
+        0.001,
+        0.999
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": "Cleavage site between pos. 23 and 24. Probability 0.985124"
+    },
+    "MYRTX1-Pr2a": {
+      "Name": "lcl|OR128474.1_prot_WMI02512.1_1 [gene=MYRTX1-Pr2a] [protein=MYRTX1-Pr2a protein] [protein_id=WMI02512.1] [location=1..270] [gbkey=CDS]",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "paper_out/output_lcl_OR128474_1_prot_WMI02512_1_1__gene_MYRTX1_Pr2a___protein_MYRTX1_Pr2a_protein___protein_id_WMI02512_1___location_1__270___gbkey_CDS__plot.txt",
+      "Prediction": "Signal Peptide (Sec/SPI)",
+      "Likelihood": [
+        0.0002,
+        0.9997
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": "Cleavage site between pos. 23 and 24. Probability 0.984100"
+    },
+    "lMYRTX1-Pr2b": {
+      "Name": "lcl|OR128475.1_prot_WMI02513.1_1 [gene=MYRTX1-Pr2b] [protein=MYRTX1-Pr2b protein] [protein_id=WMI02513.1] [location=<1..189] [gbkey=CDS]",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "paper_out/output_lcl_OR128475_1_prot_WMI02513_1_1__gene_MYRTX1_Pr2b___protein_MYRTX1_Pr2b_protein___protein_id_WMI02513_1___location__1__189___gbkey_CDS__plot.txt",
+      "Prediction": "Other",
+      "Likelihood": [
+        1.0,
+        0.0
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": ""
+    },
+    "MYRTX1-2c": {
+      "Name": "lcl|OR128476.1_prot_WMI02514.1_1 [gene=MYRTX1-2c] [protein=MYRTX1-Pr2c protein] [protein_id=WMI02514.1] [location=1..270] [gbkey=CDS]",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "paper_out/output_lcl_OR128476_1_prot_WMI02514_1_1__gene_MYRTX1_2c___protein_MYRTX1_Pr2c_protein___protein_id_WMI02514_1___location_1__270___gbkey_CDS__plot.txt",
+      "Prediction": "Signal Peptide (Sec/SPI)",
+      "Likelihood": [
+        0.0003,
+        0.9997
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": "Cleavage site between pos. 23 and 24. Probability 0.983663"
+    },
+    "MYRTX1-Pr2d": {
+      "Name": "lcl|OR128477.1_prot_WMI02515.1_1 [gene=MYRTX1-Pr2d] [protein=MYRTX1-Pr2d protein] [protein_id=WMI02515.1] [location=1..258] [gbkey=CDS]",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "paper_out/output_lcl_OR128477_1_prot_WMI02515_1_1__gene_MYRTX1_Pr2d___protein_MYRTX1_Pr2d_protein___protein_id_WMI02515_1___location_1__258___gbkey_CDS__plot.txt",
+      "Prediction": "Signal Peptide (Sec/SPI)",
+      "Likelihood": [
+        0.0007,
+        0.9994
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": "Cleavage site between pos. 23 and 24. Probability 0.982630"
+    },
+    "MYRTX1-Pr3a": {
+      "Name": "lcl|OR128478.1_prot_WMI02516.1_1 [gene=MYRTX1-Pr3a] [protein=MYRTX1-Pr3a protein] [protein_id=WMI02516.1] [location=1..225] [gbkey=CDS]",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "paper_out/output_lcl_OR128478_1_prot_WMI02516_1_1__gene_MYRTX1_Pr3a___protein_MYRTX1_Pr3a_protein___protein_id_WMI02516_1___location_1__225___gbkey_CDS__plot.txt",
+      "Prediction": "Signal Peptide (Sec/SPI)",
+      "Likelihood": [
+        0.0216,
+        0.9784
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": "Cleavage site between pos. 23 and 24. Probability 0.983286"
+    },
+    "MYRTX1-Pr3b": {
+      "Name": "lcl|OR128479.1_prot_WMI02517.1_1 [gene=MYRTX1-Pr3b] [protein=MYRTX1-Pr3b protein] [protein_id=WMI02517.1] [location=1..225] [gbkey=CDS]",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "paper_out/output_lcl_OR128479_1_prot_WMI02517_1_1__gene_MYRTX1_Pr3b___protein_MYRTX1_Pr3b_protein___protein_id_WMI02517_1___location_1__225___gbkey_CDS__plot.txt",
+      "Prediction": "Signal Peptide (Sec/SPI)",
+      "Likelihood": [
+        0.0003,
+        0.9997
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": "Cleavage site between pos. 23 and 24. Probability 0.983867"
+    },
+    "MYRTX1-Pr5a": {
+      "Name": "lcl|OR128480.1_prot_WMI02518.1_1 [gene=MYRTX1-Pr5a] [protein=MYRTX1-Pr5a protein] [protein_id=WMI02518.1] [location=1..201] [gbkey=CDS]",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "paper_out/output_lcl_OR128480_1_prot_WMI02518_1_1__gene_MYRTX1_Pr5a___protein_MYRTX1_Pr5a_protein___protein_id_WMI02518_1___location_1__201___gbkey_CDS__plot.txt",
+      "Prediction": "Signal Peptide (Sec/SPI)",
+      "Likelihood": [
+        0.0002,
+        0.9998
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": "Cleavage site between pos. 23 and 24. Probability 0.982596"
+    },
+    "MYRTX1-Pr6a": {
+      "Name": "lcl|OR128481.1_prot_WMI02519.1_1 [gene=MYRTX1-Pr6a] [protein=MYRTX1-Pr6a protein] [protein_id=WMI02519.1] [location=1..159] [gbkey=CDS]",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "paper_out/output_lcl_OR128481_1_prot_WMI02519_1_1__gene_MYRTX1_Pr6a___protein_MYRTX1_Pr6a_protein___protein_id_WMI02519_1___location_1__159___gbkey_CDS__plot.txt",
+      "Prediction": "Signal Peptide (Sec/SPI)",
+      "Likelihood": [
+        0.0002,
+        0.9998
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": "Cleavage site between pos. 22 and 23. Probability 0.981952"
+    },
+    "MYRTX1-Pr6b": {
+      "Name": "lcl|OR128482.1_prot_WMI02520.1_1 [gene=MYRTX1-Pr6b] [protein=MYRTX1-Pr6b protein] [protein_id=WMI02520.1] [location=1..168] [gbkey=CDS]",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "paper_out/output_lcl_OR128482_1_prot_WMI02520_1_1__gene_MYRTX1_Pr6b___protein_MYRTX1_Pr6b_protein___protein_id_WMI02520_1___location_1__168___gbkey_CDS__plot.txt",
+      "Prediction": "Signal Peptide (Sec/SPI)",
+      "Likelihood": [
+        0.0003,
+        0.9997
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": "Cleavage site between pos. 22 and 23. Probability 0.974162"
+    },
+    "MYRTX1-Pr8a": {
+      "Name": "lcl|OR128483.1_prot_WMI02521.1_1 [gene=MYRTX1-Pr8a] [protein=MYRTX1-Pr8a protein] [protein_id=WMI02521.1] [location=1..108] [gbkey=CDS]",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "paper_out/output_lcl_OR128483_1_prot_WMI02521_1_1__gene_MYRTX1_Pr8a___protein_MYRTX1_Pr8a_protein___protein_id_WMI02521_1___location_1__108___gbkey_CDS__plot.txt",
+      "Prediction": "Other",
+      "Likelihood": [
+        1.0,
+        0.0
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": ""
+    },
+    "MYRTX1-Pr8b": {
+      "Name": "lcl|OR128484.1_prot_WMI02522.1_1 [gene=MYRTX1-Pr8b] [protein=MYRTX1-Pr8b protein] [protein_id=WMI02522.1] [location=1..108] [gbkey=CDS]",
+      "Plot_eps": "",
+      "Plot_png": "",
+      "Plot_txt": "paper_out/output_lcl_OR128484_1_prot_WMI02522_1_1__gene_MYRTX1_Pr8b___protein_MYRTX1_Pr8b_protein___protein_id_WMI02522_1___location_1__108___gbkey_CDS__plot.txt",
+      "Prediction": "Other",
+      "Likelihood": [
+        1.0,
+        0.0
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": ""
+    }
+  },
+  "FORMAT": "txt",
+  "ORG": "eukarya",
+  "MODE": "slow",
+  "REGION_GFF_FILE": "paper_out/region_output.gff3"
+}

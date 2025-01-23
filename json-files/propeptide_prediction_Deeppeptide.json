@@ -1,0 +1,7344 @@
+{
+ "INFO": {
+  "size": 1511
+ },
+ "PREDICTIONS": {
+  ">16920994": {
+   "peptides": []
+  },
+  ">Apdo813ACb": {
+   "peptides": []
+  },
+  ">12345676": {
+   "peptides": []
+  },
+  ">ApNODE9157": {
+   "peptides": []
+  },
+  ">3486583": {
+   "peptides": []
+  },
+  ">Bote764AHd": {
+   "peptides": []
+  },
+  ">12176424": {
+   "peptides": []
+  },
+  ">33184358": {
+   "peptides": []
+  },
+  ">17758689": {
+   "peptides": []
+  },
+  ">Eudi379aU": {
+   "peptides": []
+  },
+  ">KAF3423609": {
+   "peptides": []
+  },
+  ">17796745": {
+   "peptides": []
+  },
+  ">Mebes71bU": {
+   "peptides": []
+  },
+  ">KOX80575": {
+   "peptides": []
+  },
+  ">TecaR21cU": {
+   "peptides": []
+  },
+  ">26673949": {
+   "peptides": []
+  },
+  ">Xyvi175AHd": {
+   "peptides": []
+  },
+  ">XyACPHg1": {
+   "peptides": []
+  },
+  ">Xyvi175AHb": {
+   "peptides": []
+  },
+  ">XyR663995": {
+   "peptides": [
+    {
+     "start": 44,
+     "end": 78,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">Cogi033bU": {
+   "peptides": []
+  },
+  ">15434629": {
+   "peptides": []
+  },
+  ">HaDN17772": {
+   "peptides": []
+  },
+  ">33322533": {
+   "peptides": [
+    {
+     "start": 348,
+     "end": 371,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">31828068": {
+   "peptides": []
+  },
+  ">3706108,2": {
+   "peptides": []
+  },
+  ">29038981": {
+   "peptides": []
+  },
+  ">34186973": {
+   "peptides": []
+  },
+  ">Lihu816AHc": {
+   "peptides": []
+  },
+  ">Lihu816AHb": {
+   "peptides": []
+  },
+  ">Lihu844AHb": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 28,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">Lihu844AHc": {
+   "peptides": []
+  },
+  ">Lihu844AHa": {
+   "peptides": [
+    {
+     "start": 25,
+     "end": 55,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">EZA53020": {
+   "peptides": []
+  },
+  ">Oobi508AHe": {
+   "peptides": []
+  },
+  ">11267547": {
+   "peptides": []
+  },
+  ">25271241": {
+   "peptides": []
+  },
+  ">25271239": {
+   "peptides": []
+  },
+  ">25271238": {
+   "peptides": []
+  },
+  ">11262929,2": {
+   "peptides": []
+  },
+  ">11267548,2": {
+   "peptides": []
+  },
+  ">EFN60591": {
+   "peptides": []
+  },
+  ">Cafl281AHc": {
+   "peptides": []
+  },
+  ">Cafl281AHa": {
+   "peptides": []
+  },
+  ">Cafl281AHd": {
+   "peptides": []
+  },
+  ">Cafl359AHb": {
+   "peptides": []
+  },
+  ">Cafl849AH": {
+   "peptides": []
+  },
+  ">Cafl359AHc": {
+   "peptides": []
+  },
+  ">29665028": {
+   "peptides": []
+  },
+  ">KMQ85603": {
+   "peptides": []
+  },
+  ">11051918": {
+   "peptides": []
+  },
+  ">12060520": {
+   "peptides": []
+  },
+  ">18056196": {
+   "peptides": []
+  },
+  ">12537171": {
+   "peptides": []
+  },
+  ">12537166": {
+   "peptides": [
+    {
+     "start": 359,
+     "end": 386,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">Soin538AHc": {
+   "peptides": []
+  },
+  ">Soin538AHb": {
+   "peptides": []
+  },
+  ">Soin537AH": {
+   "peptides": []
+  },
+  ">24873962": {
+   "peptides": []
+  },
+  ">18366700": {
+   "peptides": []
+  },
+  ">18356203": {
+   "peptides": []
+  },
+  ">KYN43496": {
+   "peptides": [
+    {
+     "start": 354,
+     "end": 371,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">18314480": {
+   "peptides": []
+  },
+  ">18314476": {
+   "peptides": []
+  },
+  ">11864391": {
+   "peptides": []
+  },
+  ">11872642": {
+   "peptides": []
+  },
+  ">11864394": {
+   "peptides": []
+  },
+  ">11864393": {
+   "peptides": []
+  },
+  ">11691573": {
+   "peptides": []
+  },
+  ">11706370": {
+   "peptides": []
+  },
+  ">11691575": {
+   "peptides": []
+  },
+  ">Waau691AH": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 12,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">14472126": {
+   "peptides": []
+  },
+  ">11149156": {
+   "peptides": []
+  },
+  ">Hasa988AHb": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 18,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">Hasa988AHc": {
+   "peptides": []
+  },
+  ">Hasa988AHa": {
+   "peptides": []
+  },
+  ">32666438": {
+   "peptides": []
+  },
+  ">32666436": {
+   "peptides": []
+  },
+  ">Odbr514AHd": {
+   "peptides": []
+  },
+  ">Odbr514AHa": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 14,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">Odbr514AHc": {
+   "peptides": []
+  },
+  ">Odbr514AHb": {
+   "peptides": []
+  },
+  ">20279224": {
+   "peptides": []
+  },
+  ">20279225": {
+   "peptides": []
+  },
+  ">14611325": {
+   "peptides": []
+  },
+  ">14611315": {
+   "peptides": []
+  },
+  ">14605601": {
+   "peptides": []
+  },
+  ">14605600": {
+   "peptides": []
+  },
+  ">15179982": {
+   "peptides": []
+  },
+  ">15180247": {
+   "peptides": []
+  },
+  ">15190022": {
+   "peptides": []
+  },
+  ">AVZ66237": {
+   "peptides": []
+  },
+  ">11500130": {
+   "peptides": []
+  },
+  ">Navi760AHa": {
+   "peptides": []
+  },
+  ">Navi760AHe": {
+   "peptides": []
+  },
+  ">1605452": {
+   "peptides": []
+  },
+  ">Navi758AHc": {
+   "peptides": []
+  },
+  ">Navi760AHd": {
+   "peptides": []
+  },
+  ">Navi760AHc": {
+   "peptides": []
+  },
+  ">Navi757AHg": {
+   "peptides": []
+  },
+  ">Navi757AHh": {
+   "peptides": []
+  },
+  ">Navi761AHf": {
+   "peptides": []
+  },
+  ">Navi758AHa": {
+   "peptides": []
+  },
+  ">Navi758AHb": {
+   "peptides": []
+  },
+  ">Navi761AHa": {
+   "peptides": []
+  },
+  ">ACA60733": {
+   "peptides": []
+  },
+  ">15117697": {
+   "peptides": []
+  },
+  ">15117647": {
+   "peptides": []
+  },
+  ">15117651": {
+   "peptides": []
+  },
+  ">15117680": {
+   "peptides": []
+  },
+  ">11303454": {
+   "peptides": []
+  },
+  ">11310108": {
+   "peptides": []
+  },
+  ">8555400": {
+   "peptides": []
+  },
+  ">8555397": {
+   "peptides": []
+  },
+  ">15589422": {
+   "peptides": []
+  },
+  ">15524620": {
+   "peptides": []
+  },
+  ">12285659": {
+   "peptides": []
+  },
+  ">Atro348aV": {
+   "peptides": []
+  },
+  ">Atro964bV": {
+   "peptides": []
+  },
+  ">Atro311aV": {
+   "peptides": []
+  },
+  ">Atro993aV": {
+   "peptides": []
+  },
+  ">Atro976aV": {
+   "peptides": []
+  },
+  ">Atro965aV": {
+   "peptides": []
+  },
+  ">Atro337aV": {
+   "peptides": []
+  },
+  ">Atro964aV": {
+   "peptides": []
+  },
+  ">25602645": {
+   "peptides": []
+  },
+  ">Apce453PR": {
+   "peptides": []
+  },
+  ">Apdo547PR": {
+   "peptides": []
+  },
+  ">Apfl640PR": {
+   "peptides": []
+  },
+  ">Apme651PRa": {
+   "peptides": []
+  },
+  ">Bote775PRb": {
+   "peptides": []
+  },
+  ">Bovo925PRb": {
+   "peptides": []
+  },
+  ">Eume623PR": {
+   "peptides": []
+  },
+  ">Hala177PR": {
+   "peptides": []
+  },
+  ">Mebec62aU": {
+   "peptides": []
+  },
+  ">Mequ791PR": {
+   "peptides": []
+  },
+  ">TecaR24bU": {
+   "peptides": []
+  },
+  ">Ceca225PRa": {
+   "peptides": []
+  },
+  ">Xyvi087AHa": {
+   "peptides": []
+  },
+  ">Cogi020aU": {
+   "peptides": []
+  },
+  ">Duno053PR": {
+   "peptides": []
+  },
+  ">Mege562PRa": {
+   "peptides": []
+  },
+  ">Nome485PR": {
+   "peptides": []
+  },
+  ">Mero320PR": {
+   "peptides": []
+  },
+  ">Osbi744PR": {
+   "peptides": []
+  },
+  ">Osli258PRa": {
+   "peptides": []
+  },
+  ">Lihu796PR2": {
+   "peptides": []
+  },
+  ">Lihu796PR1": {
+   "peptides": []
+  },
+  ">Oobi506PR": {
+   "peptides": []
+  },
+  ">Cafl239PR": {
+   "peptides": []
+  },
+  ">Soin599PR": {
+   "peptides": []
+  },
+  ">Waau562PR": {
+   "peptides": []
+  },
+  ">Hasa955PR": {
+   "peptides": []
+  },
+  ">Odbr592PR": {
+   "peptides": []
+  },
+  ">Poca558PR": {
+   "peptides": []
+  },
+  ">Podo075PR": {
+   "peptides": []
+  },
+  ">Navi617PR": {
+   "peptides": []
+  },
+  ">Ceci857aP": {
+   "peptides": []
+  },
+  ">Atro346aP": {
+   "peptides": []
+  },
+  ">Apce508PR": {
+   "peptides": []
+  },
+  ">Apdo615LY": {
+   "peptides": []
+  },
+  ">Apfl679LY": {
+   "peptides": []
+  },
+  ">Apme651LYb": {
+   "peptides": []
+  },
+  ">Bovo925PRa": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 14,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">Eume972PR": {
+   "peptides": []
+  },
+  ">Eudi098aU": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 12,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">Hala187PR": {
+   "peptides": []
+  },
+  ">Mebec2aU": {
+   "peptides": []
+  },
+  ">Mequ711LY": {
+   "peptides": []
+  },
+  ">TecaR24aU": {
+   "peptides": []
+  },
+  ">Ceca225PRb": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 22,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">XyACPHg2": {
+   "peptides": []
+  },
+  ">Xyvi073AHa": {
+   "peptides": []
+  },
+  ">Duno910PR": {
+   "peptides": []
+  },
+  ">Mege562PRb": {
+   "peptides": [
+    {
+     "start": 73,
+     "end": 91,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">Nome884TE": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 17,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">Mero166PR": {
+   "peptides": []
+  },
+  ">Osbi766TE": {
+   "peptides": []
+  },
+  ">Osli258PRb": {
+   "peptides": []
+  },
+  ">Lihu715PR": {
+   "peptides": []
+  },
+  ">Oobi512PR": {
+   "peptides": []
+  },
+  ">Cafl223PR": {
+   "peptides": []
+  },
+  ">Soin879PR": {
+   "peptides": []
+  },
+  ">Soin819PR": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 22,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">Waau149AH": {
+   "peptides": []
+  },
+  ">Waau295TE": {
+   "peptides": []
+  },
+  ">Hasa029AH": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 18,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">Odbr460PR": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 18,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">Poca736LY": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 19,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">Podo040AH": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 19,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">Navi761PRe": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 16,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">Atro932aP": {
+   "peptides": []
+  },
+  ">Apce863AHa": {
+   "peptides": []
+  },
+  ">Apce863AHd": {
+   "peptides": []
+  },
+  ">Apdo813ACa": {
+   "peptides": []
+  },
+  ">Apdo314AC": {
+   "peptides": []
+  },
+  ">Apfl143AHa": {
+   "peptides": []
+  },
+  ">Apfl143AHc": {
+   "peptides": []
+  },
+  ">Apme642AHa": {
+   "peptides": []
+  },
+  ">ApDN1533": {
+   "peptides": []
+  },
+  ">Apme642AHd": {
+   "peptides": []
+  },
+  ">Bote764AHe": {
+   "peptides": []
+  },
+  ">Bovo972AHa": {
+   "peptides": []
+  },
+  ">Eume286AHc": {
+   "peptides": []
+  },
+  ">Eudi818aU": {
+   "peptides": []
+  },
+  ">Mebes71cU": {
+   "peptides": []
+  },
+  ">Mequ699AHc": {
+   "peptides": []
+  },
+  ">TecaR21bU": {
+   "peptides": []
+  },
+  ">Ceca119AHc": {
+   "peptides": []
+  },
+  ">Xyvi175AHc": {
+   "peptides": []
+  },
+  ">Cogi033cU": {
+   "peptides": []
+  },
+  ">Cogi033eU": {
+   "peptides": []
+  },
+  ">Duno882AH": {
+   "peptides": []
+  },
+  ">HaDN1533": {
+   "peptides": []
+  },
+  ">Mege539AH": {
+   "peptides": []
+  },
+  ">Nome151AH": {
+   "peptides": []
+  },
+  ">Mero359AHb": {
+   "peptides": []
+  },
+  ">Osbi711AHc": {
+   "peptides": []
+  },
+  ">Osli266AHa": {
+   "peptides": []
+  },
+  ">Ceci933cV": {
+   "peptides": []
+  },
+  ">Atro971aV": {
+   "peptides": []
+  },
+  ">Atro971cV": {
+   "peptides": []
+  },
+  ">Atro971eV": {
+   "peptides": []
+  },
+  ">Atro410aV": {
+   "peptides": []
+  },
+  ">Apce863AHc": {
+   "peptides": [
+    {
+     "start": 370,
+     "end": 389,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">Apdo813AHc": {
+   "peptides": [
+    {
+     "start": 370,
+     "end": 389,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">Apme642AHc": {
+   "peptides": [
+    {
+     "start": 371,
+     "end": 391,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">Bote764AHc": {
+   "peptides": [
+    {
+     "start": 364,
+     "end": 387,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">Bovo972AHc": {
+   "peptides": [
+    {
+     "start": 367,
+     "end": 390,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">Eume286AHa": {
+   "peptides": [
+    {
+     "start": 369,
+     "end": 391,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">Eudi379bU": {
+   "peptides": []
+  },
+  ">Hala081AHa": {
+   "peptides": [
+    {
+     "start": 371,
+     "end": 391,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">Mebes71aU": {
+   "peptides": []
+  },
+  ">Mequ699AHa": {
+   "peptides": []
+  },
+  ">TecaR21dU": {
+   "peptides": [
+    {
+     "start": 368,
+     "end": 392,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">Ceca119AHa": {
+   "peptides": [
+    {
+     "start": 370,
+     "end": 391,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">Xyvi175AHa": {
+   "peptides": []
+  },
+  ">Cogi033aU": {
+   "peptides": [
+    {
+     "start": 368,
+     "end": 390,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">Duno070AHb": {
+   "peptides": [
+    {
+     "start": 370,
+     "end": 390,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">Mege237AHa": {
+   "peptides": [
+    {
+     "start": 368,
+     "end": 390,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">Nome527AHb": {
+   "peptides": [
+    {
+     "start": 370,
+     "end": 390,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">Mero359AHd": {
+   "peptides": [
+    {
+     "start": 389,
+     "end": 411,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">Osbi711AHa": {
+   "peptides": [
+    {
+     "start": 372,
+     "end": 392,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">Osli266AHc": {
+   "peptides": [
+    {
+     "start": 372,
+     "end": 392,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">Lihu816AHa": {
+   "peptides": [
+    {
+     "start": 370,
+     "end": 393,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">Oobi508AHa": {
+   "peptides": [
+    {
+     "start": 373,
+     "end": 393,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">Cafl238AHa": {
+   "peptides": [
+    {
+     "start": 373,
+     "end": 401,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">Soin538AHd": {
+   "peptides": []
+  },
+  ">Hasa872AHc": {
+   "peptides": []
+  },
+  ">Odbr469AHc": {
+   "peptides": [
+    {
+     "start": 372,
+     "end": 396,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">Podo015AHb": {
+   "peptides": [
+    {
+     "start": 362,
+     "end": 382,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">Navi758AHd": {
+   "peptides": [
+    {
+     "start": 360,
+     "end": 382,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">Ceci933aV": {
+   "peptides": [
+    {
+     "start": 384,
+     "end": 409,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">Apce656AH": {
+   "peptides": [
+    {
+     "start": 355,
+     "end": 378,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">Apdo532AH": {
+   "peptides": [
+    {
+     "start": 360,
+     "end": 390,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">Apfl529AH": {
+   "peptides": [
+    {
+     "start": 359,
+     "end": 385,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">Apme649AH": {
+   "peptides": [
+    {
+     "start": 356,
+     "end": 387,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">Bote773AHa": {
+   "peptides": [
+    {
+     "start": 362,
+     "end": 394,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">Bovo976AH": {
+   "peptides": [
+    {
+     "start": 362,
+     "end": 394,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">Eume754AH": {
+   "peptides": [
+    {
+     "start": 362,
+     "end": 392,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">Eudi013aU": {
+   "peptides": [
+    {
+     "start": 361,
+     "end": 392,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">Hala279AH": {
+   "peptides": [
+    {
+     "start": 360,
+     "end": 401,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">TecaR21aU": {
+   "peptides": [
+    {
+     "start": 359,
+     "end": 392,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">Ceca497AH": {
+   "peptides": [
+    {
+     "start": 361,
+     "end": 383,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">Xyvi691AHa": {
+   "peptides": [
+    {
+     "start": 353,
+     "end": 380,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">Cogi006aU": {
+   "peptides": [
+    {
+     "start": 364,
+     "end": 398,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">Duno901AH": {
+   "peptides": [
+    {
+     "start": 365,
+     "end": 393,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">Mege366AH": {
+   "peptides": [
+    {
+     "start": 367,
+     "end": 394,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">Nome504AH": {
+   "peptides": [
+    {
+     "start": 365,
+     "end": 393,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">Mero084AH": {
+   "peptides": [
+    {
+     "start": 361,
+     "end": 393,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">Osbi719AH": {
+   "peptides": [
+    {
+     "start": 361,
+     "end": 393,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">Osli266AHd": {
+   "peptides": [
+    {
+     "start": 361,
+     "end": 393,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">Lihu815AH": {
+   "peptides": [
+    {
+     "start": 362,
+     "end": 390,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">Oobi509AH": {
+   "peptides": [
+    {
+     "start": 365,
+     "end": 393,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">Cafl692AH": {
+   "peptides": [
+    {
+     "start": 361,
+     "end": 389,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">Soin535AH": {
+   "peptides": [
+    {
+     "start": 361,
+     "end": 389,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">Waau789AH": {
+   "peptides": [
+    {
+     "start": 394,
+     "end": 422,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">Hasa161AH": {
+   "peptides": [
+    {
+     "start": 364,
+     "end": 391,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">Odbr563AH": {
+   "peptides": [
+    {
+     "start": 364,
+     "end": 391,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">Poca569AH": {
+   "peptides": [
+    {
+     "start": 356,
+     "end": 381,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">Podo004AH": {
+   "peptides": [
+    {
+     "start": 356,
+     "end": 381,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">Ceci756aV": {
+   "peptides": [
+    {
+     "start": 359,
+     "end": 385,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">Atro499aV": {
+   "peptides": [
+    {
+     "start": 353,
+     "end": 380,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">Navi761AHb": {
+   "peptides": []
+  },
+  ">Navi759TEa": {
+   "peptides": []
+  },
+  ">Navi757TEf": {
+   "peptides": []
+  },
+  ">Navi761AHc": {
+   "peptides": []
+  },
+  ">Navi757AHa": {
+   "peptides": []
+  },
+  ">Navi759AHe": {
+   "peptides": []
+  },
+  ">Navi757AHc": {
+   "peptides": []
+  },
+  ">Navi759AHg": {
+   "peptides": []
+  },
+  ">Navi623AH": {
+   "peptides": []
+  },
+  ">Navi759AHc": {
+   "peptides": []
+  },
+  ">Navi759AHb": {
+   "peptides": []
+  },
+  ">Navi757AHb": {
+   "peptides": []
+  },
+  ">Navi761TEd": {
+   "peptides": []
+  },
+  ">Navi757AHd": {
+   "peptides": []
+  },
+  ">Navi759AHd": {
+   "peptides": []
+  },
+  ">Navi759AHf": {
+   "peptides": []
+  },
+  ">Navi758AHg": {
+   "peptides": []
+  },
+  ">Navi641TE": {
+   "peptides": []
+  },
+  ">Navi757AHe": {
+   "peptides": []
+  },
+  ">Apce397AH": {
+   "peptides": []
+  },
+  ">Apdo058AH": {
+   "peptides": []
+  },
+  ">Apfl993AH": {
+   "peptides": []
+  },
+  ">Apme645AH": {
+   "peptides": []
+  },
+  ">Bote764AHa": {
+   "peptides": []
+  },
+  ">Bote764AHb": {
+   "peptides": []
+  },
+  ">Bovo057AHa": {
+   "peptides": []
+  },
+  ">Bovo057AHb": {
+   "peptides": []
+  },
+  ">Eume982AH": {
+   "peptides": []
+  },
+  ">Eudi071aU": {
+   "peptides": []
+  },
+  ">Hala384AH": {
+   "peptides": []
+  },
+  ">Mebec21aU": {
+   "peptides": []
+  },
+  ">Mebec21bU": {
+   "peptides": []
+  },
+  ">Mequ886AHb": {
+   "peptides": []
+  },
+  ">Mequ886AHa": {
+   "peptides": []
+  },
+  ">Tecac40bU": {
+   "peptides": []
+  },
+  ">Tecac40cU": {
+   "peptides": []
+  },
+  ">Ceca652AHb": {
+   "peptides": []
+  },
+  ">Ceca652AHa": {
+   "peptides": []
+  },
+  ">Xyvi133AHa": {
+   "peptides": []
+  },
+  ">Duno046AH": {
+   "peptides": []
+  },
+  ">Mero243AH": {
+   "peptides": []
+  },
+  ">Osbi695AH": {
+   "peptides": []
+  },
+  ">Apce364AH": {
+   "peptides": []
+  },
+  ">Apdo375AH": {
+   "peptides": []
+  },
+  ">Apfl296AH": {
+   "peptides": []
+  },
+  ">Apme653AH": {
+   "peptides": []
+  },
+  ">Bote773AHb": {
+   "peptides": []
+  },
+  ">Bovo348AH": {
+   "peptides": []
+  },
+  ">Eume372AH": {
+   "peptides": []
+  },
+  ">Eudi099aU": {
+   "peptides": []
+  },
+  ">Hala342AH": {
+   "peptides": []
+  },
+  ">Mequ759AH": {
+   "peptides": []
+  },
+  ">TecaR21eU": {
+   "peptides": []
+  },
+  ">Ceca693AH": {
+   "peptides": []
+  },
+  ">Xyvi047AHa": {
+   "peptides": []
+  },
+  ">Cogi033dU": {
+   "peptides": []
+  },
+  ">Duno199AH": {
+   "peptides": []
+  },
+  ">Mege911AH": {
+   "peptides": []
+  },
+  ">Mege685AHb": {
+   "peptides": []
+  },
+  ">Nome508AH": {
+   "peptides": []
+  },
+  ">Mero359AHa": {
+   "peptides": []
+  },
+  ">Osbi836AH": {
+   "peptides": []
+  },
+  ">Osli284AH": {
+   "peptides": []
+  },
+  ">Lihu816AHe": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 15,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">Lihu816AHf": {
+   "peptides": []
+  },
+  ">Lihu816AHg": {
+   "peptides": []
+  },
+  ">Lihu816AHd": {
+   "peptides": []
+  },
+  ">Oobi508AHd": {
+   "peptides": []
+  },
+  ">Cafl238AHh": {
+   "peptides": []
+  },
+  ">Soin538AHa": {
+   "peptides": []
+  },
+  ">Waau857AHc": {
+   "peptides": []
+  },
+  ">Hasa872AHa": {
+   "peptides": []
+  },
+  ">Odbr469AHa": {
+   "peptides": []
+  },
+  ">Poca568AH": {
+   "peptides": []
+  },
+  ">Podo039AH": {
+   "peptides": []
+  },
+  ">Ceci933dV": {
+   "peptides": []
+  },
+  ">Atro971bV": {
+   "peptides": []
+  },
+  ">P04567": {
+   "peptides": []
+  },
+  ">Q6H2Z4": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 22,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">P01499": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 22,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">Bote773_Apamin-like_1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 26,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">Hala279_Apamin-like": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 21,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">Xyvi691APa": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 25,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">Xylocopa_NODE_10042_length_1345_cov_20691.368992_g138_i17.p2": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 23,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">Xylocopa_TRINITY_DN1_c0_g1_i1.p6": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 23,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">Duno070_Apamin-like_3": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 39,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">Duno070_Apamin-like_6": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 31,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">Duno070_Apamin-like_4": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 27,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">Duno070_Apamin-like_2": {
+   "peptides": [
+    {
+     "start": 26,
+     "end": 51,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">Duno070_Apamin-like_1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 29,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">Duno070_Apamin-like_5": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 35,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">Halictus_TRINITY_DN14_c0_g1_i1.p1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 22,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">Mege534_Apamin-like_1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 36,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">Nome504_Apamin-like_1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 27,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">Nome504_Apamin-like_3": {
+   "peptides": [
+    {
+     "start": 31,
+     "end": 56,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">Nome504_Apamin-like_2": {
+   "peptides": []
+  },
+  ">Nome504_Apamin-like_5": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 23,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">Nome504_Apamin-like_4": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 22,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">Mero113_Apamin-like": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 20,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">Osbi711_Apamin-like": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 22,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">Apce250_Apamin-like": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 18,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">Apme649_Apamin": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 18,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">Apce567DPAP6": {
+   "peptides": []
+  },
+  ">PBC32785.1": {
+   "peptides": []
+  },
+  ">XP_006614167.2": {
+   "peptides": []
+  },
+  ">XP_031771202.1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 19,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">Apme648DPAP6": {
+   "peptides": []
+  },
+  ">XP_026299326.1": {
+   "peptides": []
+  },
+  ">B2D0J4.1": {
+   "peptides": []
+  },
+  ">NP_001119715.2": {
+   "peptides": []
+  },
+  ">APIS_NODE_4090_length_2882_cov_402.678660_g2412_i0.p1": {
+   "peptides": []
+  },
+  ">XP_033301322.1": {
+   "peptides": []
+  },
+  ">XP_033301323.1": {
+   "peptides": []
+  },
+  ">XP_003487239.1": {
+   "peptides": []
+  },
+  ">XP_024221352.1": {
+   "peptides": []
+  },
+  ">XP_020721340.1": {
+   "peptides": []
+  },
+  ">XP_003399213.1": {
+   "peptides": []
+  },
+  ">XP_033190003.1": {
+   "peptides": []
+  },
+  ">XP_033190002.1": {
+   "peptides": []
+  },
+  ">Bovo945DPAP6": {
+   "peptides": []
+  },
+  ">XP_033348705.1": {
+   "peptides": []
+  },
+  ">XP_017766967.1": {
+   "peptides": []
+  },
+  ">OAD60840.1": {
+   "peptides": []
+  },
+  ">Eudi123DPP4": {
+   "peptides": []
+  },
+  ">Frva926DPP4": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 35,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">KAF3420675.1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 35,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">XP_017792860.1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 8,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">KOC62680.1": {
+   "peptides": []
+  },
+  ">Mebec94DPP4": {
+   "peptides": []
+  },
+  ">Mequ803DPP4": {
+   "peptides": []
+  },
+  ">TecaR3_7DPP4": {
+   "peptides": []
+  },
+  ">DPP4_g1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 24,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">Cogi003DPP4": {
+   "peptides": []
+  },
+  ">XP_015435502.1": {
+   "peptides": []
+  },
+  ">Halictus_NODE_48_length_4499_cov_302.285329_g37_i0.p1": {
+   "peptides": []
+  },
+  ">XP_033334525.1": {
+   "peptides": []
+  },
+  ">XP_033334526.1": {
+   "peptides": []
+  },
+  ">XP_031850173.1": {
+   "peptides": []
+  },
+  ">XP_012151165.1": {
+   "peptides": []
+  },
+  ">XP_012151166.1": {
+   "peptides": []
+  },
+  ">XP_003707763.1": {
+   "peptides": []
+  },
+  ">XP_029038326.1": {
+   "peptides": []
+  },
+  ">XP_034176530.1": {
+   "peptides": []
+  },
+  ">XP_034176529.1": {
+   "peptides": []
+  },
+  ">XP_012223653.1": {
+   "peptides": []
+  },
+  ">XP_011340468.1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 14,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">EZA53369.1": {
+   "peptides": []
+  },
+  ">XP_011256937.1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 14,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">Cafl838DPAP6": {
+   "peptides": []
+  },
+  ">EFN67964.1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 21,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">XP_029660603.1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 14,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">XP_029660604.1": {
+   "peptides": []
+  },
+  ">XP_011055616.1": {
+   "peptides": []
+  },
+  ">EGI64633.1": {
+   "peptides": []
+  },
+  ">XP_012054228.1": {
+   "peptides": []
+  },
+  ">XP_018049589.1": {
+   "peptides": []
+  },
+  ">XP_018402470.1": {
+   "peptides": []
+  },
+  ">KYM96356.1": {
+   "peptides": []
+  },
+  ">XP_012533997.1": {
+   "peptides": []
+  },
+  ">XP_028049203.1": {
+   "peptides": []
+  },
+  ">XP_028049205.1": {
+   "peptides": []
+  },
+  ">XP_028049204.1": {
+   "peptides": []
+  },
+  ">XP_028049201.1": {
+   "peptides": []
+  },
+  ">XP_012533995.1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 35,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">XP_011629993.1": {
+   "peptides": []
+  },
+  ">XP_025992386.1": {
+   "peptides": []
+  },
+  ">XP_024869126.1": {
+   "peptides": []
+  },
+  ">XP_018374861.1": {
+   "peptides": []
+  },
+  ">KYN10654.1": {
+   "peptides": []
+  },
+  ">XP_018355747.1": {
+   "peptides": []
+  },
+  ">KYN43954.1": {
+   "peptides": []
+  },
+  ">XP_018313668.1": {
+   "peptides": []
+  },
+  ">XP_011871066.1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 14,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">XP_011684932.1": {
+   "peptides": []
+  },
+  ">XP_011684935.1": {
+   "peptides": []
+  },
+  ">XP_014479089.1": {
+   "peptides": []
+  },
+  ">XP_014479088.1": {
+   "peptides": []
+  },
+  ">XP_011154777.2": {
+   "peptides": []
+  },
+  ">XP_025154798.1": {
+   "peptides": []
+  },
+  ">XP_025154834.1": {
+   "peptides": []
+  },
+  ">EFN87861.1": {
+   "peptides": []
+  },
+  ">Odbr472DPP4": {
+   "peptides": []
+  },
+  ">XP_020277835.1": {
+   "peptides": []
+  },
+  ">XP_014608944.1": {
+   "peptides": []
+  },
+  ">Poca725DPP10": {
+   "peptides": []
+  },
+  ">XP_015174445.1": {
+   "peptides": []
+  },
+  ">ABG57265.1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 19,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">B1A4F7.1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 14,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">XP_011501631.1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 14,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">Navi760DPP4": {
+   "peptides": []
+  },
+  ">Navi760DPP10": {
+   "peptides": []
+  },
+  ">XP_014238402.1": {
+   "peptides": []
+  },
+  ">XP_014238401.1": {
+   "peptides": []
+  },
+  ">OXU21775.1": {
+   "peptides": []
+  },
+  ">XP_014213445.1": {
+   "peptides": []
+  },
+  ">XP_015601080.1": {
+   "peptides": []
+  },
+  ">Ceci388DPP10": {
+   "peptides": []
+  },
+  ">XP_015515909.1": {
+   "peptides": []
+  },
+  ">XP_012270204.1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 7,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">XP_012252193.1": {
+   "peptides": []
+  },
+  ">Apce275": {
+   "peptides": []
+  },
+  ">AAK51798.2": {
+   "peptides": []
+  },
+  ">Apdo380": {
+   "peptides": []
+  },
+  ">1FCQ_A": {
+   "peptides": []
+  },
+  ">Apme651": {
+   "peptides": []
+  },
+  ">NP_001011619.1": {
+   "peptides": []
+  },
+  ">APIS_R1024725.p1": {
+   "peptides": []
+  },
+  ">Q08169": {
+   "peptides": []
+  },
+  ">AFI40555.1": {
+   "peptides": []
+  },
+  ">XP_033177130.1": {
+   "peptides": []
+  },
+  ">XP_033177131.1": {
+   "peptides": []
+  },
+  ">Bote775": {
+   "peptides": []
+  },
+  ">XP_033186510.1": {
+   "peptides": []
+  },
+  ">XP_033186509.1": {
+   "peptides": []
+  },
+  ">Bovo925": {
+   "peptides": []
+  },
+  ">Eume972": {
+   "peptides": []
+  },
+  ">Eudi098": {
+   "peptides": []
+  },
+  ">Frva333": {
+   "peptides": []
+  },
+  ">Hala187": {
+   "peptides": []
+  },
+  ">KOC68535.1": {
+   "peptides": []
+  },
+  ">Mebec63": {
+   "peptides": []
+  },
+  ">TecaR2_4": {
+   "peptides": []
+  },
+  ">Ceca415": {
+   "peptides": []
+  },
+  ">Xylocopa_TRINITY_DN76_c0_g2_i1.p1": {
+   "peptides": []
+  },
+  ">Duno910": {
+   "peptides": []
+  },
+  ">Halictus_TRINITY_DN143_c0_g1_i1.p1": {
+   "peptides": []
+  },
+  ">Mege562": {
+   "peptides": []
+  },
+  ">Nome883": {
+   "peptides": []
+  },
+  ">XP_012139705.1": {
+   "peptides": []
+  },
+  ">Mero166": {
+   "peptides": []
+  },
+  ">Osbi712": {
+   "peptides": []
+  },
+  ">Osli275": {
+   "peptides": []
+  },
+  ">ARK19841.1": {
+   "peptides": []
+  },
+  ">Lihu615": {
+   "peptides": []
+  },
+  ">Oobi509": {
+   "peptides": []
+  },
+  ">EZA61502.1": {
+   "peptides": []
+  },
+  ">Cafl264": {
+   "peptides": []
+  },
+  ">EFN68537.1": {
+   "peptides": []
+  },
+  ">XP_029680639.1": {
+   "peptides": []
+  },
+  ">XP_029680638.1": {
+   "peptides": []
+  },
+  ">XP_011058901.1": {
+   "peptides": []
+  },
+  ">XP_012060118.1": {
+   "peptides": []
+  },
+  ">XP_018050891.1": {
+   "peptides": []
+  },
+  ">XP_018402826.1": {
+   "peptides": []
+  },
+  ">KYM96002.1": {
+   "peptides": []
+  },
+  ">XP_012527752.1": {
+   "peptides": []
+  },
+  ">XP_011635767.1": {
+   "peptides": []
+  },
+  ">Soin665": {
+   "peptides": []
+  },
+  ">XP_024877571.1": {
+   "peptides": []
+  },
+  ">XP_018364740.1": {
+   "peptides": []
+  },
+  ">KYN18603.1": {
+   "peptides": []
+  },
+  ">XP_018351485.1": {
+   "peptides": []
+  },
+  ">XP_018303074.1": {
+   "peptides": []
+  },
+  ">KYQ55741.1": {
+   "peptides": []
+  },
+  ">Waau917": {
+   "peptides": []
+  },
+  ">Hasa188": {
+   "peptides": []
+  },
+  ">BAF93867.1": {
+   "peptides": []
+  },
+  ">ACZ37402.1": {
+   "peptides": []
+  },
+  ">ACD61711.1": {
+   "peptides": []
+  },
+  ">ACC93934.1": {
+   "peptides": []
+  },
+  ">Poca621": {
+   "peptides": []
+  },
+  ">Podo013": {
+   "peptides": []
+  },
+  ">ADL09135.1": {
+   "peptides": []
+  },
+  ">P49371.1": {
+   "peptides": []
+  },
+  ">P86875.2": {
+   "peptides": []
+  },
+  ">C0HLL5.1": {
+   "peptides": []
+  },
+  ">C0HLL4.1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 5,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">CAL59818.1": {
+   "peptides": []
+  },
+  ">P0CH89": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 31,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">P49370.1": {
+   "peptides": []
+  },
+  ">Q5D7H4.1": {
+   "peptides": []
+  },
+  ">Navi761": {
+   "peptides": []
+  },
+  ">XP_014217198.1": {
+   "peptides": []
+  },
+  ">XP_034951790.1": {
+   "peptides": []
+  },
+  ">CCQ71107.1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 14,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">XP_015114803.1": {
+   "peptides": []
+  },
+  ">XP_011301680.1": {
+   "peptides": []
+  },
+  ">ACE75133.1": {
+   "peptides": []
+  },
+  ">ABK57057.1": {
+   "peptides": []
+  },
+  ">XP_014299670.1": {
+   "peptides": []
+  },
+  ">Ceci138": {
+   "peptides": []
+  },
+  ">XP_015514160.1": {
+   "peptides": []
+  },
+  ">Atro321": {
+   "peptides": []
+  },
+  ">sp|P0C022|MAST_ANTFM Eumenine mastoparan-AF OS=Anterhynchium flavomarginatum micado OX=329991 PE=1 SV=1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 14,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">sp|P0CJ39|MASTE_EUMFR Eumenine mastoparan-EF OS=Eumenes fraterculus OX=1035771 PE=1 SV=1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 14,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">sp|P0CJ38|MASTE_EUMRB Eumenine mastoparan-ER OS=Eumenes rubrofemoratus OX=1035770 PE=1 SV=1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 14,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">P86146_MCD_ORADR Eumenine mastoparan-OD OS=Orancistrocerus drewseni OX=529024 GN=VP1 PE=1 SV=2": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 17,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">sp|P86146|MASOD_ORADR Eumenine mastoparan-OD OS=Orancistrocerus drewseni OX=529024 GN=VP1 PE=1 SV=2": {
+   "peptides": []
+  },
+  ">sp|P69436|MAST_AGEPP Agelaia-mastoparan OS=Agelaia pallipes pallipes OX=313352 PE=1 SV=1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 14,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">sp|P42716|MAST_PARID Mastoparan OS=Parapolybia indica OX=31921 PE=1 SV=1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 14,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">sp|P01517|MAST_POLJO Mastoparan-J OS=Polistes jokahamae OX=256662 PE=1 SV=1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 14,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">sp|P85874|MAST2_POLMJ Mastoparan-like peptide PMM2 OS=Polistes major OX=91420 PE=1 SV=1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 17,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">sp|P0C1Q4|MASTI_POLPI Mastoparan-1 OS=Polybia paulista OX=291283 PE=1 SV=1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 14,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">sp|P0C1Q5|MASTP_PROSY Mastoparan OS=Protonectarina sylveirae OX=91438 PE=1 SV=1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 14,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">sp|P69034|MAST1_PROEX Mastoparan-1 OS=Protopolybia exigua OX=91439 PE=1 SV=1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 14,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">sp|P69036|MAST3_PROEX Mastoparan-3 OS=Protopolybia exigua OX=91439 PE=1 SV=1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 14,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">sp|P69035|MAST2_PROEX Mastoparan-2 OS=Protopolybia exigua OX=91439 PE=1 SV=1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 14,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">tr|S4S2C7|S4S2C7_VESAF": {
+   "peptides": []
+  },
+  ">sp|P0C1Q6|MASTA_VESAN Mastoparan-A OS=Vespa analis OX=7449 PE=2 SV=1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 14,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">tr|S4S3F8|S4S3F8_VESAN": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 33,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">sp|P21654|MAST_VESBA Mastoparan-B OS=Vespa basalis OX=7444 PE=1 SV=1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 14,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">sp|P01516|MAST_VESCR Mastoparan-C OS=Vespa crabro OX=7445 PE=1 SV=1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 14,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">tr|S4S3G3|S4S3G3_9HYME": {
+   "peptides": []
+  },
+  ">sp|P0C1M5|MASTB_VESMG Mastoparan-like peptide 12b OS=Vespa magnifica OX=202807 PE=1 SV=1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 13,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">sp|P0C1M4|MASTA_VESMG Mastoparan-like peptide 12a OS=Vespa magnifica OX=202807 PE=1 SV=1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 14,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">sp|P0C5G7|MASTD_VESMG Mastoparan-like peptide 12d OS=Vespa magnifica OX=202807 PE=1 SV=1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 14,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">sp|A0SPI0|MASTC_VESMG Mastoparan-like peptide 12c OS=Vespa magnifica OX=202807 PE=1 SV=1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 14,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">tr|S4S3F3|S4S3F3_VESMA": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 33,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">sp|P17238|MAST_VESOR Mastoparan OS=Vespa orientalis OX=7447 PE=1 SV=1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 14,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">P17236": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 14,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">sp|P0C1Q7|MAST_VESTR Mastoparan-T OS=Vespa tropica OX=7450 PE=2 SV=1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 14,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">sp|P01514|MAST_VESLE Mastoparan-L OS=Vespula lewisii OX=7452 PE=1 SV=1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 14,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">sp|P0C1Q9|MAST2_VESVU Mastoparan-V2 OS=Vespula vulgaris OX=7454 PE=1 SV=1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 15,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">sp|P0C1Q8|MAST1_VESVU Mastoparan-V1 OS=Vespula vulgaris OX=7454 PE=1 SV=1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 15,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">P56587": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 21,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">sp|P59261|MEL_POLHE Melittin OS=Polistes hebraeus OX=202806 GN=MELT PE=3 SV=1": {
+   "peptides": [
+    {
+     "start": 24,
+     "end": 48,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">tr|D0VDZ4|D0VDZ4_BOMIG extraction": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 32,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">sp|P0CD67|BOL6_BOMLA Bombolitin-6 OS=Bombus lapidarius OX=30192 PE=1 SV=1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 19,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">sp|P0CD69|BOL8_BOMLA Bombolitin-8 OS=Bombus lapidarius OX=30192 PE=1 SV=1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 19,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">sp|P0CD68|BOL7_BOMLA Bombolitin-7 OS=Bombus lapidarius OX=30192 PE=1 SV=1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 19,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">sp|P07493|BOL2_BOMPE Bombolitin-2 OS=Bombus pensylvanicus OX=28643 PE=1 SV=1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 17,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">sp|P07496|BOL5_BOMPE Bombolitin-5 OS=Bombus pensylvanicus OX=28643 PE=1 SV=1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 17,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">sp|P07495|BOL4_BOMPE Bombolitin-4 OS=Bombus pensylvanicus OX=28643 PE=1 SV=1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 17,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">sp|P10521|BOL1_BOMPE Bombolitin-1 OS=Bombus pensylvanicus OX=28643 PE=1 SV=1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 17,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">sp|P07494|BOL3_BOMPE Bombolitin-3 OS=Bombus pensylvanicus OX=28643 PE=1 SV=1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 17,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">tr|F1CGQ5|F1CGQ5_BOMTE extraction": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 32,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">Bote765MEa": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 22,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">Bombus_vosnesenski_melittin-2": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 32,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">Bombus_vosnesenski_melittin-1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 32,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">CODESANE": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 18,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">Cogi001Meq": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 23,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">HALICTINE-I": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 12,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">HALICTINE-II": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 13,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">sp|C0HK42|LL1_LASLA Lasioglossin-1 OS=Lasioglossum laticeps OX=88510 PE=1 SV=1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 15,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">sp|C0HK44|LL3_LASLA Lasioglossin-3 OS=Lasioglossum laticeps OX=88510 PE=1 SV=1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 15,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">sp|C0HK43|LL2_LASLA Lasioglossin-2 OS=Lasioglossum laticeps OX=88510 PE=1 SV=1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 15,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">sp|C0HL98|MAC1_MACFV Macropin OS=Macropis fulvipes OX=465486 PE=1 SV=1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 13,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">sp|P86170|MEP_MELAF Melectin OS=Melecta albifrons OX=582867 PE=1 SV=1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 18,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">sp|Q8LW54|MELS_APICE Melittin OS=Apis cerana OX=7461 GN=MELT PE=1 SV=1": {
+   "peptides": [
+    {
+     "start": 22,
+     "end": 46,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">sp|P0DPR9|MELN_APICE Melittin-N OS=Apis cerana OX=7461 GN=MELT PE=1 SV=1": {
+   "peptides": [
+    {
+     "start": 24,
+     "end": 48,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">sp|P01502|MEL_APIDO Melittin OS=Apis dorsata OX=7462 GN=MELT PE=1 SV=1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 26,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">Apdo390MEL": {
+   "peptides": [
+    {
+     "start": 24,
+     "end": 49,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">sp|P01504|MEL_APIFL Melittin OS=Apis florea OX=7463 GN=MELT PE=1 SV=1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 26,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">Apfl285MEL": {
+   "peptides": [
+    {
+     "start": 24,
+     "end": 49,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">Apis_mellifera_melittin_4": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 27,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">APIS_NODE_54636_length_223_cov_8.095238_g48972_i0.p1": {
+   "peptides": [
+    {
+     "start": 30,
+     "end": 74,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">APIS_TRINITY_DN3177_c0_g1_i2.p4": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 22,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">APIS_TRINITY_DN6995_c0_g2_i2.p4": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 35,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">APIS_TRINITY_DN2882_c0_g1_i3.p3": {
+   "peptides": [
+    {
+     "start": 28,
+     "end": 48,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">APIS_NODE_51757_length_254_cov_0.849162_g45996_i0.p2": {
+   "peptides": [
+    {
+     "start": 32,
+     "end": 59,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">APIS_TRINITY_DN18396_c0_g1_i1.p5": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 21,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">APIS_TRINITY_DN3929_c0_g1_i1.p3": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 21,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">APIS_TRINITY_DN3221_c0_g1_i3.p1": {
+   "peptides": []
+  },
+  ">APIS_NODE_12118_length_1243_cov_10805.042088_g8373_i0.p9": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 27,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">APIS_TRINITY_DN8492_c0_g1_i2.p5": {
+   "peptides": []
+  },
+  ">APIS_TRINITY_DN7492_c0_g1_i1.p8": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 28,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">APIS_TRINITY_DN3849_c0_g2_i3.p9": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 22,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">APIS_TRINITY_DN19171_c1_g1_i1.p1": {
+   "peptides": [
+    {
+     "start": 15,
+     "end": 51,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">APIS_NODE_49307_length_261_cov_541237.096774_g43546_i0.p1": {
+   "peptides": []
+  },
+  ">APIS_TRINITY_DN350_c7_g1_i1.p1": {
+   "peptides": []
+  },
+  ">APIS_NODE_39837_length_291_cov_0.983051_g34173_i0.p1": {
+   "peptides": [
+    {
+     "start": 24,
+     "end": 49,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">APIS_TRINITY_DN12646_c3_g1_i1.p1": {
+   "peptides": [
+    {
+     "start": 23,
+     "end": 40,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">APIS_NODE_50813_length_248_cov_1.051813_g45149_i0.p1": {
+   "peptides": [
+    {
+     "start": 17,
+     "end": 45,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">Apme641MEL": {
+   "peptides": [
+    {
+     "start": 24,
+     "end": 49,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">APIS_NODE_53886_length_248_cov_1.017341_g48125_i0.p1": {
+   "peptides": [
+    {
+     "start": 18,
+     "end": 45,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">APIS_NODE_10403_length_1439_cov_3311.402493_g351_i3.p6": {
+   "peptides": []
+  },
+  ">Osbi656Os": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 22,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">sp|P0CD70|OSM_OSMRU Osmin OS=Osmia rufa OX=1437190 PE=1 SV=1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 17,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">sp|C0HL84|PNG1_PANCL Panurgin 1 OS=Panurgus calcaratus OX=156354 PE=1 SV=1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 12,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">sp|C0HL86|PNGR_PANCL Panurgine R OS=Panurgus calcaratus OX=156354 PE=1 SV=1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 25,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">sp|C0HL85|PNGK_PANCL Panurgine K OS=Panurgus calcaratus OX=156354 PE=1 SV=1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 25,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">tr|Q0R4F6|Q0R4F6_VESBA": {
+   "peptides": []
+  },
+  ">tr|A0A076VES2|A0A076VES2_VESOR": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 33,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">tr|S4S3F6|S4S3F6_VESVE": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 33,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">sp|C0HKQ6|XAC2_XYLAI Antimicrobial peptide Xac-2 OS=Xylocopa appendiculata circumvolans OX=135722 PE=1 SV=1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 17,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">sp|C0HKQ5|XAC1_XYLAI Antimicrobial peptide Xac-1 OS=Xylocopa appendiculata circumvolans OX=135722 PE=1 SV=1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 17,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">Xylocopa_TRINITY_DN2_c1_g1_i1.p2_transcriptomeOnly": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 29,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">Xylocopa_NODE_38821_length_260_cov_1.492683_g34557_i0.p1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 31,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">sp|A0A1W6EVN4|AMPU3_AMPCP Ampulexin 3 OS=Ampulex compressa OX=860918 PE=1 SV=1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 13,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">sp|A0A1W6EVN2|AMPU2_AMPCP Ampulexin 2 OS=Ampulex compressa OX=860918 PE=1 SV=1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 24,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">sp|A0A1W6EVM7|AMPU1_AMPCP Ampulexin 1 OS=Ampulex compressa OX=860918 PE=1 SV=1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 24,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">sp|P0C005|ANOP_ANOSM Anoplin OS=Anoplius samariensis OX=200614 PE=1 SV=1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 10,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">sp|P85870|DCRLN_OREDC Decoralin OS=Oreumenes decoratus OX=531920 PE=1 SV=1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 11,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">sp|P0DSL4|TX21A_MYRGU U-myrmeciitoxin(02)-Mg1a OS=Myrmecia gulosa OX=36170 PE=1 SV=1": {
+   "peptides": []
+  },
+  ">sp|P0CJ37|EUMEF_EUMFR Eumenitin-F OS=Eumenes fraterculus OX=1035771 PE=1 SV=1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 15,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">sp|P0CJ36|EUMER_EUMRB Eumenitin-R OS=Eumenes rubrofemoratus OX=1035770 PE=1 SV=1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 15,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">sp|P0C931|EUME_EUMRU Eumenitin OS=Eumenes rubronotatus OX=539890 PE=1 SV=1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 15,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">sp|Q68Y22|MYR4_MYRBA": {
+   "peptides": []
+  },
+  ">sp|A9CM07|MYRB5_MYRBA": {
+   "peptides": []
+  },
+  ">sp|Q68Y23|MYR3_MYRBA": {
+   "peptides": [
+    {
+     "start": 24,
+     "end": 47,
+     "type": "Peptide"
+    },
+    {
+     "start": 1,
+     "end": 23,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">sp|P0DSK1|TX16A_MYRGU U-myrmeciitoxin(01)-Mg6a OS=Myrmecia gulosa OX=36170 PE=1 SV=1": {
+   "peptides": [
+    {
+     "start": 13,
+     "end": 26,
+     "type": "Peptide"
+    },
+    {
+     "start": 1,
+     "end": 12,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">sp|P0DSK5|TX18A_MYRGU U-myrmeciitoxin(01)-Mg8a OS=Myrmecia gulosa OX=36170 PE=3 SV=1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 24,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">sp|P0DSK6|TX18B_MYRGU U-myrmeciitoxin(01)-Mg8b OS=Myrmecia gulosa OX=36170 PE=3 SV=1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 24,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">sp|P0DSJ9|TX15B_MYRGU U-myrmeciitoxin(01)-Mg5b OS=Myrmecia gulosa OX=36170 PE=1 SV=1": {
+   "peptides": []
+  },
+  ">sp|P0DSJ8|TX15A_MYRGU U-myrmeciitoxin(01)-Mg5a OS=Myrmecia gulosa OX=36170 PE=1 SV=1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 38,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">sp|P0DSJ7|TX14B_MYRGU U-myrmeciitoxin(01)-Mg4b OS=Myrmecia gulosa OX=36170 PE=3 SV=1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 39,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">sp|P0DPU9|TX14A_MYRGU U-myrmeciitoxin(01)-Mg4a OS=Myrmecia gulosa OX=36170 PE=1 SV=1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 42,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">sp|P0DSK7|TX19A_MYRGU U-myrmeciitoxin(01)-Mg9a OS=Myrmecia gulosa OX=36170 PE=1 SV=1": {
+   "peptides": [
+    {
+     "start": 28,
+     "end": 57,
+     "type": "Peptide"
+    },
+    {
+     "start": 1,
+     "end": 27,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">sp|P0DSK3|TX17A_MYRGU U-myrmeciitoxin(01)-Mg7a OS=Myrmecia gulosa OX=36170 PE=1 SV=1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 26,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">sp|P0DSJ4|TX11A_MYRGU U-myrmeciitoxin(01)-Mg1a OS=Myrmecia gulosa OX=36170 PE=1 SV=1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 25,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">sp|P0DSK4|TX17C_MYRGU U-myrmeciitoxin(01)-Mg7c OS=Myrmecia gulosa OX=36170 PE=3 SV=1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 33,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">sp|P0DPX0|TX17B_MYRGU U-myrmeciitoxin(01)-Mg7b OS=Myrmecia gulosa OX=36170 PE=1 SV=1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 34,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">sp|P0DSJ5|TX12A_MYRGU U-myrmeciitoxin(01)-Mg2a OS=Myrmecia gulosa OX=36170 PE=1 SV=1": {
+   "peptides": []
+  },
+  ">sp|P0C023|TX2B_MYRPI M-myrmeciitoxin-Mp2b OS=Myrmecia pilosula OX=13618 PE=1 SV=1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 23,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">sp|Q07932|MYR1_MYRPI": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 30,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">sp|Q26464|MYR3A_MYRPI": {
+   "peptides": [
+    {
+     "start": 23,
+     "end": 48,
+     "type": "Peptide"
+    },
+    {
+     "start": 1,
+     "end": 22,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">sp|A0A6G9KHE5|TX17B_MANRB U17-myrmicitoxin-Mri1b OS=Manica rubida OX=219785 PE=1 SV=1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 24,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">sp|A0A6G9KJM3|TX18A_MANRB U18-myrmicitoxin-Mri1a OS=Manica rubida OX=219785 PE=1 SV=1": {
+   "peptides": []
+  },
+  ">sp|A0A6G9KHD1|TX06A_MANRB U6-myrmicitoxin-Mri1a OS=Manica rubida OX=219785 PE=1 SV=1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 22,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">sp|A0A6G9KHD6|TX10C_MANRB U10-myrmicitoxin-Mri1c OS=Manica rubida OX=219785 PE=1 SV=1": {
+   "peptides": []
+  },
+  ">sp|A0A6G9KJV6|TX10B_MANRB U10-myrmicitoxin-Mri1b OS=Manica rubida OX=219785 PE=1 SV=1": {
+   "peptides": []
+  },
+  ">sp|A0A6G9KJK9|TX10A_MANRB U10-myrmicitoxin-Mri1a OS=Manica rubida OX=219785 PE=1 SV=1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 26,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">sp|A0A6G9KIT6|TX13A_MANRB U13-myrmicitoxin-Mri1a OS=Manica rubida OX=219785 PE=1 SV=1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 33,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">sp|A0A6G9KIR5|TX20A_MANRB U20-myrmicitoxin-Mri1a OS=Manica rubida OX=219785 PE=1 SV=1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 36,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">sp|A0A6G9KHD3|TX12A_MANRB U12-myrmicitoxin-Mri1a OS=Manica rubida OX=219785 PE=1 SV=1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 12,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">sp|P0DSL0|TX1A_MYRRB U1-myrmicitoxin-Mr1a OS=Myrmica rubra OX=106198 PE=1 SV=1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 10,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">sp|A0A6M3Z554|TX11A_TETBN U11-myrmicitoxin-Tb1a (Fragment) OS=Tetramorium bicarinatum OX=219812 PE=1 SV=1": {
+   "peptides": []
+  },
+  ">sp|W8GNV3|B11A_TETBN M-myrmicitoxin(01)-Tb1a OS=Tetramorium bicarinatum OX=219812 PE=1 SV=1": {
+   "peptides": []
+  },
+  ">sp|P0DSI4|B13A_TETBN U-myrmicitoxin(01)-Tb3a OS=Tetramorium bicarinatum OX=219812 PE=3 SV=1": {
+   "peptides": []
+  },
+  ">sp|A0A6M6R9M4|TX17F_TETBN U17-myrmicitoxin-Tb1f OS=Tetramorium bicarinatum OX=219812 PE=1 SV=1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 31,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">sp|A0A088SG62|B12A_TETBN U-myrmicitoxin(01)-Tb2a OS=Tetramorium bicarinatum OX=219812 PE=1 SV=1": {
+   "peptides": [
+    {
+     "start": 28,
+     "end": 48,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">sp|A0A6M3Z4E7|TX14A_TETBN U14-myrmicitoxin-Tb1a OS=Tetramorium bicarinatum OX=219812 PE=1 SV=1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 12,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">sp|P0DSI6|B15A_TETBN U-myrmicitoxin(01)-Tb5a OS=Tetramorium bicarinatum OX=219812 PE=3 SV=1": {
+   "peptides": [
+    {
+     "start": 11,
+     "end": 28,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">sp|P0DSI5|B14A_TETBN U-myrmicitoxin(01)-Tb4a OS=Tetramorium bicarinatum OX=219812 PE=3 SV=1": {
+   "peptides": [
+    {
+     "start": 11,
+     "end": 28,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">sp|P0DL32|BRKF_CYPDO Fulvonin OS=Cyphononyx dorsalis OX=246266 PE=1 SV=1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 11,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">sp|C0HLS2|PP1AA_PSEPY Delta-pseudomyrmecitoxin-Pp1a subunit A OS=Pseudomyrmex penetrator OX=621823 PE=1 SV=1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 27,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">sp|C0HLS3|PP1AB_PSEPY Delta-pseudomyrmecitoxin-Pp1a subunit B OS=Pseudomyrmex penetrator OX=621823 PE=1 SV=1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 33,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">sp|P0DSL7|TXLS1_PSETR U1-pseudomyrmecitoxin-Pt1 subunit LS1 OS=Pseudomyrmex triplarinus OX=600763 PE=1 SV=1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 33,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">sp|P0DSM1|TXSS3_PSETR U1-pseudomyrmecitoxin-Pt1 subunit SS3 OS=Pseudomyrmex triplarinus OX=600763 PE=1 SV=1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 29,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">sp|P0DSM0|TXSS2_PSETR U1-pseudomyrmecitoxin-Pt1 subunit SS2 OS=Pseudomyrmex triplarinus OX=600763 PE=1 SV=1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 29,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">sp|P0DSL9|TXSS1_PSETR U1-pseudomyrmecitoxin-Pt1 subunit SS1 OS=Pseudomyrmex triplarinus OX=600763 PE=1 SV=1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 29,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">sp|P0DSL8|TXLS2_PSETR U1-pseudomyrmecitoxin-Pt1 subunit LS2 OS=Pseudomyrmex triplarinus OX=600763 PE=1 SV=1": {
+   "peptides": []
+  },
+  ">MIITX-M3_MyrVG.TRINITY_DN4685_c0_g1_i1_Entry:noBxHit_len:284_tpm:9693.66 translation": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 13,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">sp|P41736|TX1A_PARCV Delta-paraponeritoxin-Pc1a OS=Paraponera clavata OX=55425 PE=1 SV=1": {
+   "peptides": []
+  },
+  ">contig1_Dinoponera_quadriceps": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 21,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">PLP3 Odontomachus monticola": {
+   "peptides": []
+  },
+  ">PLP2 Odontomachus monticola": {
+   "peptides": []
+  },
+  ">sp|D1MEI8|MAS2B_EUMPO Venom peptide 2b OS=Eumenes pomiformis OX=693051 PE=1 SV=1": {
+   "peptides": []
+  },
+  ">sp|D1MEI7|MAS2A_EUMPO Venom peptide 2a OS=Eumenes pomiformis OX=693051 PE=1 SV=1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 40,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">sp|D1MEI6|EUME1_EUMPO Venom peptide 1 OS=Eumenes pomiformis OX=693051 PE=1 SV=1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 41,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">sp|D1MEJ3|PROT6_EUMPO Venom peptide 6 OS=Eumenes pomiformis OX=693051 PE=3 SV=1": {
+   "peptides": [
+    {
+     "start": 20,
+     "end": 36,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">P86147_MCD_ORADR Venom peptide 2-long OS=Orancistrocerus drewseni OX=529024 GN=VP2 PE=1 SV=2": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 17,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">sp|P0C1M6|MASTA_POLDO Dominulin-A OS=Polistes dominula OX=743375 PE=1 SV=1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 17,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">sp|P0C1M7|MASTB_POLDO Dominulin-B OS=Polistes dominula OX=743375 PE=1 SV=1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 17,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">sp|P85879|TLP1_POLLN Tachykinin-like peptide-I OS=Polistes lanio OX=91419 PE=1 SV=1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 14,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">sp|P85880|TLP2_POLLN Tachykinin-like peptide-II OS=Polistes lanio OX=91419 PE=1 SV=1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 17,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">sp|C0HLT7|BRK_POLOC Thr6-bradykinin OS=Polybia occidentalis OX=91432 PE=1 SV=1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 9,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">sp|P84389|PLYB2_POLPI Polybine-2 OS=Polybia paulista OX=291283 PE=1 SV=1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 14,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">sp|P84388|PLYB1_POLPI Polybine-1 OS=Polybia paulista OX=291283 PE=1 SV=1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 14,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">sp|P84915|VP13A_POLPI Venom protein 13a OS=Polybia paulista OX=291283 PE=1 SV=1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 14,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">sp|P0C1R0|PROTO_POLPI Polybia-CP OS=Polybia paulista OX=291283 PE=1 SV=1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 12,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">sp|P84914|VP13B_POLPI Venom protein 13b OS=Polybia paulista OX=291283 PE=1 SV=1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 14,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">sp|C0HJY4|PON1A_ANOEM U1-poneritoxin-Ae1a OS=Anochetus emarginatus OX=486636 PE=1 SV=1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 16,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">sp|C0HJY9|PON1F_ANOEM U1-poneritoxin-Ae1f OS=Anochetus emarginatus OX=486636 PE=1 SV=1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 19,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">sp|C0HJY5|PON1B_ANOEM U1-poneritoxin-Ae1b OS=Anochetus emarginatus OX=486636 PE=1 SV=1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 18,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">sp|C0HJY6|PON1C_ANOEM U1-poneritoxin-Ae1c OS=Anochetus emarginatus OX=486636 PE=1 SV=1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 18,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">sp|C0HJY7|PON1D_ANOEM U1-poneritoxin-Ae1d OS=Anochetus emarginatus OX=486636 PE=1 SV=1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 18,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">sp|C0HJY8|PON1E_ANOEM U1-poneritoxin-Ae1e OS=Anochetus emarginatus OX=486636 PE=1 SV=1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 18,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">sp|C0HJZ0|PON1G_ANOEM U1-poneritoxin-Ae1g OS=Anochetus emarginatus OX=486636 PE=1 SV=1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 18,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">sp|P0CF04|TX1A_DINAS U1-poneritoxin-Da1a OS=Dinoponera australis OX=609289 PE=1 SV=1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 9,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">sp|P0CF05|TX4B_DINAS M-poneritoxin-Da4b OS=Dinoponera australis OX=609289 PE=1 SV=1": {
+   "peptides": []
+  },
+  ">sp|P0CF02|TX4A_DINAS U1-poneritoxin-Da4a OS=Dinoponera australis OX=609289 PE=1 SV=1": {
+   "peptides": []
+  },
+  ">sp|P0CF01|TX3AB_DINAS U1-poneritoxin-Da3b OS=Dinoponera australis OX=609289 PE=1 SV=1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 23,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">sp|P0CF03|TX2A_DINAS U1-poneritoxin-Da2a OS=Dinoponera australis OX=609289 PE=1 SV=1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 18,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">sp|P0DSL6|TX5A_DINQU U1-poneritoxin-Dq5a OS=Dinoponera quadriceps OX=609295 PE=3 SV=1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 30,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">sp|C0HJK4|TX2AC_DINQU U1-poneritoxin-Dq2c OS=Dinoponera quadriceps OX=609295 PE=1 SV=1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 11,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">sp|C0HJK1|TX1C_DINQU U1-poneritoxin-Dq1c OS=Dinoponera quadriceps OX=609295 PE=1 SV=1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 9,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">sp|C0HJK2|TX1AB_DINQU U1-poneritoxin-Dq1b OS=Dinoponera quadriceps OX=609295 PE=1 SV=1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 9,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">sp|C0HJK0|TX3AB_DINQU Venom peptides OS=Dinoponera quadriceps OX=609295 PE=1 SV=1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 20,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">sp|C0HJH6|TX4BC_DINQU M-poneritoxin-Dq4b/U1-poneritoxin-Dq4c/U1-poneritoxin-Dq4d OS=Dinoponera quadriceps OX=609295 PE=1 SV=1": {
+   "peptides": []
+  },
+  ">sp|C0HJH7|TX4A_DINQU M-poneritoxin-Dq4a OS=Dinoponera quadriceps OX=609295 PE=1 SV=1": {
+   "peptides": []
+  },
+  ">sp|P0DSK0|TXM3A_DINQU M-poneratoxin-Dq3a OS=Dinoponera quadriceps OX=609295 PE=3 SV=1": {
+   "peptides": [
+    {
+     "start": 21,
+     "end": 43,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">sp|C0HJK3|TX2B_DINQU U1-poneritoxin-Dq2b OS=Dinoponera quadriceps OX=609295 PE=1 SV=1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 9,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">sp|P0DSK2|TXM4E_DINQU M-poneratoxin-Dq4e OS=Dinoponera quadriceps OX=609295 PE=3 SV=1": {
+   "peptides": [
+    {
+     "start": 15,
+     "end": 44,
+     "type": "Peptide"
+    },
+    {
+     "start": 1,
+     "end": 14,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">sp|P0DSL5|TX2A_NEOAP U1-poneritoxin-Na2a OS=Neoponera apicalis OX=2320211 PE=1 SV=1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 34,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">sp|P0DSI9|GTX3B_NEOAP U1-poneritoxin-Na3b OS=Neoponera apicalis OX=2320211 PE=1 SV=1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 27,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">sp|P0DSI7|GTX3A_NEOAP U1-poneritoxin-Na3a OS=Neoponera apicalis OX=2320211 PE=1 SV=1": {
+   "peptides": []
+  },
+  ">sp|P0DSM2|WTX1A_NEOAP U1-poneritoxin-Na1a OS=Neoponera apicalis OX=2320211 PE=1 SV=1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 24,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">sp|P0DSM4|WTX1B_NEOAP U1-poneritoxin-Na1b OS=Neoponera apicalis OX=2320211 PE=1 SV=1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 25,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">sp|P82424|WTX1B_NEOGO U1-poneritoxin-Ng1b OS=Neoponera goeldii OX=118888 PE=1 SV=1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 25,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">sp|P82423|WTX1A_NEOGO M-poneritoxin-Ng1a OS=Neoponera goeldii OX=118888 PE=1 SV=1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 25,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">sp|P82421|LTX2A_NEOGO U1-poneritoxin-Ng2a OS=Neoponera goeldii OX=118888 PE=1 SV=1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 24,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">sp|P82422|LTX2B_NEOGO M-poneritoxin-Ng2b OS=Neoponera goeldii OX=118888 PE=1 SV=1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 24,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">sp|P82416|GTX3C_NEOGO M-poneritoxin-Ng3c OS=Neoponera goeldii OX=118888 PE=1 SV=1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 30,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">sp|P82415|GTX3B_NEOGO U1-poneritoxin-Ng3b OS=Neoponera goeldii OX=118888 PE=1 SV=1": {
+   "peptides": []
+  },
+  ">sp|P82414|GTX3A_NEOGO M-poneritoxin-Ng3a OS=Neoponera goeldii OX=118888 PE=1 SV=1": {
+   "peptides": []
+  },
+  ">sp|P82420|GTX3G_NEOGO U1-poneritoxin-Ng3g OS=Neoponera goeldii OX=118888 PE=1 SV=1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 19,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">sp|P82419|GTX3F_NEOGO M-poneritoxin-Ng3f OS=Neoponera goeldii OX=118888 PE=1 SV=1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 18,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">sp|P82418|GTX3E_NEOGO U1-poneritoxin-Ng3e OS=Neoponera goeldii OX=118888 PE=1 SV=1": {
+   "peptides": []
+  },
+  ">sp|P82425|WTX1C_NEOGO M-poneritoxin-Ng1c OS=Neoponera goeldii OX=118888 PE=1 SV=1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 26,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">sp|P82426|WTX1D_NEOGO M-poneritoxin-Ng1d OS=Neoponera goeldii OX=118888 PE=1 SV=1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 26,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">sp|P82427|WTX1E_NEOGO M-poneritoxin-Ng1e OS=Neoponera goeldii OX=118888 PE=1 SV=1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 24,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">sp|P82428|WTX1F_NEOGO M-poneritoxin-Ng1f OS=Neoponera goeldii OX=118888 PE=1 SV=1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 20,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">sp|P82417|GTX3D_NEOGO M-poneritoxin-Ng3d OS=Neoponera goeldii OX=118888 PE=1 SV=1": {
+   "peptides": []
+  },
+  ">sp|P0DSJ3|LTX2A_NEOIV U1-poneritoxin-Ni2a OS=Neoponera inversa OX=264722 PE=1 SV=1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 24,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">sp|P0DSI8|GTX3A_NEOIV U1-poneritoxin-Ni3a OS=Neoponera inversa OX=264722 PE=1 SV=1": {
+   "peptides": []
+  },
+  ">sp|P0DSJ0|GTX3B_NEOIV U1-poneritoxin-Ni3b OS=Neoponera inversa OX=264722 PE=1 SV=1": {
+   "peptides": []
+  },
+  ">sp|P0DSJ1|GTX3C_NEOIV U1-poneritoxin-Ni3c OS=Neoponera inversa OX=264722 PE=1 SV=1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 30,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">sp|P0DSJ2|GTX3D_NEOIV U1-poneritoxin-Ni3d OS=Neoponera inversa OX=264722 PE=1 SV=1": {
+   "peptides": []
+  },
+  ">sp|P0DSM5|WTX1B_NEOIV U1-poneritoxin-Ni1b OS=Neoponera inversa OX=264722 PE=1 SV=1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 26,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">sp|P0DSM3|WTX1A_NEOIV U1-poneritoxin-Ni1a OS=Neoponera inversa OX=264722 PE=1 SV=1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 20,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">sp|A0A348G5W2|TX16A_ODOMO U-poneritoxin(01)-Om6a OS=Odontomachus monticola OX=613454 PE=1 SV=1": {
+   "peptides": [
+    {
+     "start": 23,
+     "end": 58,
+     "type": "Peptide"
+    },
+    {
+     "start": 1,
+     "end": 22,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">sp|A0A348G6I9|TX17A_ODOMO U-poneritoxin(01)-Om4b OS=Odontomachus monticola OX=613454 PE=1 SV=1": {
+   "peptides": [
+    {
+     "start": 15,
+     "end": 43,
+     "type": "Peptide"
+    },
+    {
+     "start": 1,
+     "end": 14,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">sp|A0A348G5W0|TX14A_ODOMO U-poneritoxin(01)-Om4a OS=Odontomachus monticola OX=613454 PE=1 SV=1": {
+   "peptides": [
+    {
+     "start": 15,
+     "end": 43,
+     "type": "Peptide"
+    },
+    {
+     "start": 1,
+     "end": 14,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">sp|A0A348G5W1|TX15A_ODOMO U-poneritoxin(01)-Om5a OS=Odontomachus monticola OX=613454 PE=1 SV=1": {
+   "peptides": [
+    {
+     "start": 19,
+     "end": 36,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">sp|A0A348G6J0|TX18A_ODOMO U-poneritoxin(01)-Om5b OS=Odontomachus monticola OX=613454 PE=1 SV=1": {
+   "peptides": []
+  },
+  ">sp|A0A348G6J1|TX19A_ODOMO U-poneritoxin(01)-Om7a OS=Odontomachus monticola OX=613454 PE=1 SV=1": {
+   "peptides": []
+  },
+  ">sp|A0A348G6I7|TX11A_ODOMO U-poneritoxin(01)-Om1a OS=Odontomachus monticola OX=613454 PE=1 SV=1": {
+   "peptides": []
+  },
+  ">sp|A0A348G5V9|TX13A_ODOMO U-poneritoxin(01)-Om3a OS=Odontomachus monticola OX=613454 PE=1 SV=1": {
+   "peptides": []
+  },
+  ">sp|A0A348G5V8|TX12A_ODOMO U-poneritoxin(01)-Om2a OS=Odontomachus monticola OX=613454 PE=1 SV=1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 22,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">sp|P86147|PROTO_ORADR Venom peptide 2-long OS=Orancistrocerus drewseni OX=529024 GN=VP2 PE=1 SV=2": {
+   "peptides": [
+    {
+     "start": 32,
+     "end": 44,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">sp|P69437|PROTO_AGEPP Protonectin OS=Agelaia pallipes pallipes OX=313352 PE=1 SV=1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 12,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">sp|P0DRB2|FRAT_PARFA Fraternine OS=Parachartergus fraternus OX=91406 PE=1 SV=1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 24,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">sp|C0HKQ9|PSTN_POLPI Paulistine OS=Polybia paulista OX=291283 PE=1 SV=1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 21,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">sp|P0C1R2|SYLV_PROSY Sylverin OS=Protonectarina sylveirae OX=91438 PE=1 SV=1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 22,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">sp|A0SPI1|CRBLH_VESMG": {
+   "peptides": [
+    {
+     "start": 23,
+     "end": 39,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">sp|P17237|PROTO_ICASP Chemotactic peptide OS=Icaria sp. OX=7495 PE=1 SV=1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 13,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">sp|P42718|CHEP_PARID Chemotactic peptide OS=Parapolybia indica OX=31921 PE=1 SV=1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 13,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">sp|P17233|CRBL_VESAN Vespid chemotactic peptide A OS=Vespa analis OX=7449 PE=1 SV=1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 13,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">sp|P01518|CRBL_VESCR Crabrolin OS=Vespa crabro OX=7445 PE=1 SV=1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 13,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">sp|P0C1M2|CRBLF_VESMG Vespid chemotactic peptide 5f OS=Vespa magnifica OX=202807 PE=1 SV=1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 13,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">sp|P0C1M1|CRBLE_VESMG Vespid chemotactic peptide 5e OS=Vespa magnifica OX=202807 PE=1 SV=1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 13,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">sp|P0C1M3|CRBLG_VESMG Vespid chemotactic peptide 5g OS=Vespa magnifica OX=202807 PE=1 SV=1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 13,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">sp|P17232|CRBL_VESMA Vespid chemotactic peptide M OS=Vespa mandarinia OX=7446 PE=1 SV=1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 13,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">sp|P17231|CRBL_VESTR Vespid chemotactic peptide T OS=Vespa tropica OX=7450 PE=1 SV=1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 13,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">sp|P17235|CRBL_VESLE Vespid chemotactic peptide L OS=Vespula lewisii OX=7452 PE=1 SV=1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 13,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">sp|P0DL40|VESPI_VESMG Vespin OS=Vespa magnifica OX=202807 PE=1 SV=1": {
+   "peptides": []
+  },
+  ">sp|P83659|BRKC_CYPDO Cyphokinin OS=Cyphononyx dorsalis OX=246266 PE=1 SV=2": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 11,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">sp|P12797|BRK_MEGFL Megascoliakinin OS=Megascolia flavifrons OX=7437 PE=1 SV=1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 11,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">sp|P42717|BRK_PARID Waspkinin OS=Parapolybia indica OX=31921 PE=1 SV=1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 13,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">sp|P85873|BRK_POLMJ Wasp kinin PMM1 OS=Polistes major OX=91420 PE=1 SV=1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 11,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">sp|P0DM71|BRK2_PROEX Protopolybiakinin-2 OS=Protopolybia exigua OX=91439 PE=1 SV=1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 19,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">sp|P0DM70|BRK1_PROEX Protopolybiakinin-1 OS=Protopolybia exigua OX=91439 PE=1 SV=1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 21,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">sp|Q7M3T3|BRK_VESMA Vespakinin-M OS=Vespa mandarinia OX=7446 PE=1 SV=1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 12,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">tr|D3Y4D7|D3Y4D7_VESTR": {
+   "peptides": []
+  },
+  ">sp|Q7M3T2|BRK_VESXA Vespakinin-X OS=Vespa xanthoptera OX=7448 PE=1 SV=1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 12,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">sp|P57672|BRK_VESMC Vespulakinin-1 OS=Vespula maculifrons OX=7453 PE=1 SV=1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 17,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">P0DUV2": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 10,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">P83451": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 20,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">P83660": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 16,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">P0DSK8": {
+   "peptides": []
+  },
+  ">C0HK45": {
+   "peptides": []
+  },
+  ">C0HK46": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 24,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">C0HK47": {
+   "peptides": []
+  },
+  ">P0DSK9": {
+   "peptides": []
+  },
+  ">P49344": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 34,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">P0DSL1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 39,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">P49343": {
+   "peptides": []
+  },
+  ">P0DSL2": {
+   "peptides": []
+  },
+  ">A0A346RA21_TETBN": {
+   "peptides": []
+  },
+  ">A0A346RA96_TETBN": {
+   "peptides": []
+  },
+  ">Apce566": {
+   "peptides": []
+  },
+  ">Apdo372": {
+   "peptides": []
+  },
+  ">Apflo393": {
+   "peptides": []
+  },
+  ">APIS_NODE_44489_length_278_cov_0.748768_g38728_i0.p1": {
+   "peptides": []
+  },
+  ">APIS_NODE_6700_length_2072_cov_10229.525037_g4464_i1.p1": {
+   "peptides": []
+  },
+  ">Q5BLY4": {
+   "peptides": []
+  },
+  ">Bote767": {
+   "peptides": []
+  },
+  ">Bovo953": {
+   "peptides": []
+  },
+  ">Eume878": {
+   "peptides": []
+  },
+  ">Hala137": {
+   "peptides": []
+  },
+  ">Teca_ctg7": {
+   "peptides": []
+  },
+  ">Ceca567": {
+   "peptides": []
+  },
+  ">Xylocopa_NODE_9056_length_1506_cov_6966.522398_g6487_i1.p1": {
+   "peptides": []
+  },
+  ">Duno895": {
+   "peptides": []
+  },
+  ">Mege375": {
+   "peptides": []
+  },
+  ">Nome755": {
+   "peptides": []
+  },
+  ">Mero210": {
+   "peptides": []
+  },
+  ">Osbi697": {
+   "peptides": []
+  },
+  ">Osli271": {
+   "peptides": []
+  },
+  ">Lihu620_ICA": {
+   "peptides": []
+  },
+  ">Oobi506": {
+   "peptides": []
+  },
+  ">Cafl547": {
+   "peptides": []
+  },
+  ">Soin529_ICA": {
+   "peptides": []
+  },
+  ">Waau894": {
+   "peptides": []
+  },
+  ">Hasa874": {
+   "peptides": []
+  },
+  ">Odbr457": {
+   "peptides": []
+  },
+  ">Poca635": {
+   "peptides": []
+  },
+  ">Podo069": {
+   "peptides": []
+  },
+  ">Navi758": {
+   "peptides": []
+  },
+  ">Ceci403": {
+   "peptides": []
+  },
+  ">Atro992": {
+   "peptides": []
+  },
+  ">Q8T0W3": {
+   "peptides": [
+    {
+     "start": 3,
+     "end": 38,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">Q8T0W0": {
+   "peptides": []
+  },
+  ">Q8T0W5": {
+   "peptides": []
+  },
+  ">Q8MMH0": {
+   "peptides": []
+  },
+  ">Q8T0W1": {
+   "peptides": []
+  },
+  ">B5AJT3": {
+   "peptides": []
+  },
+  ">B5AJT2": {
+   "peptides": []
+  },
+  ">B5AJT4": {
+   "peptides": []
+  },
+  ">P0DUV0": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 11,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">P83661": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 8,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">D1MEJ2": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 30,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">D1MEI9": {
+   "peptides": []
+  },
+  ">D1MEJ0": {
+   "peptides": []
+  },
+  ">D1MEJ1": {
+   "peptides": []
+  },
+  ">C7DT09": {
+   "peptides": []
+  },
+  ">P85875": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 12,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">Q7M3V4": {
+   "peptides": []
+  },
+  ">Q7M471": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 9,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">Q7M3V1": {
+   "peptides": []
+  },
+  ">Q8WQK0": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 42,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">Q8T0W2": {
+   "peptides": []
+  },
+  ">Q8MMH5": {
+   "peptides": []
+  },
+  ">Q8MMH4": {
+   "peptides": [
+    {
+     "start": 24,
+     "end": 59,
+     "type": "Peptide"
+    },
+    {
+     "start": 1,
+     "end": 23,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">Q8MMH3": {
+   "peptides": []
+  },
+  ">P0DUU9": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 11,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">P0DUU8": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 10,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">P0DUU6": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 12,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">P0DUU7": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 12,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">A0A2R4SV19": {
+   "peptides": []
+  },
+  ">P83563": {
+   "peptides": []
+  },
+  ">Q8MMG9": {
+   "peptides": []
+  },
+  ">B2D0J5": {
+   "peptides": []
+  },
+  ">G3LH89": {
+   "peptides": []
+  },
+  ">D8KY58": {
+   "peptides": []
+  },
+  ">Q589G4": {
+   "peptides": []
+  },
+  ">C0LNR2": {
+   "peptides": []
+  },
+  ">Q8T0W4": {
+   "peptides": []
+  },
+  ">Muscidifurax_raptor_Venom_Y_A": {
+   "peptides": []
+  },
+  ">Muscidifurax_raptorellus_Venom_Y_A": {
+   "peptides": []
+  },
+  ">Muscidifurax_uniraptor_Venom_Y_A": {
+   "peptides": []
+  },
+  ">Nasonia_giraulti_Venom_Y_A": {
+   "peptides": []
+  },
+  ">Nasonia_giraulti_Venom_Y_B": {
+   "peptides": []
+  },
+  ">Nasonia_longicornis_Venom_Y_A": {
+   "peptides": []
+  },
+  ">Nasonia_longicornis_Venom_Y_B": {
+   "peptides": []
+  },
+  ">Nasonia_vitripennis_Venom_Y_B": {
+   "peptides": []
+  },
+  ">Pteromalus_puparum_Venom_Y_A": {
+   "peptides": []
+  },
+  ">Trichomalopsis_sarcophagae_Venom_Y_A": {
+   "peptides": []
+  },
+  ">Trichomalopsis_sarcophagae_Venom_Y_B": {
+   "peptides": []
+  },
+  ">Q68KK0": {
+   "peptides": []
+  },
+  ">P0DSI2": {
+   "peptides": []
+  },
+  ">Q9U6W0": {
+   "peptides": []
+  },
+  ">Q6Q249": {
+   "peptides": []
+  },
+  ">Q6Q250": {
+   "peptides": []
+  },
+  ">Q6Q251": {
+   "peptides": []
+  },
+  ">Q6Q252": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 14,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">P83542": {
+   "peptides": []
+  },
+  ">A2VBC4": {
+   "peptides": []
+  },
+  ">P53357": {
+   "peptides": []
+  },
+  ">Q06478": {
+   "peptides": []
+  },
+  ">P0DMB5": {
+   "peptides": []
+  },
+  ">P0DMB4": {
+   "peptides": []
+  },
+  ">A0A0M3KKW3": {
+   "peptides": []
+  },
+  ">P0CH87": {
+   "peptides": []
+  },
+  ">P0CH47": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 12,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">P0DPT0": {
+   "peptides": []
+  },
+  ">C0HLL3": {
+   "peptides": []
+  },
+  ">P0DMB6": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 23,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">Q3ZU95": {
+   "peptides": []
+  },
+  ">P51528": {
+   "peptides": []
+  },
+  ">P0CH86": {
+   "peptides": []
+  },
+  ">P49369": {
+   "peptides": []
+  },
+  ">Apce_NW_016019286.1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 15,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">Q9BMK4": {
+   "peptides": []
+  },
+  ">Apdo_NW_006263599.1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 15,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">Q7M4I5": {
+   "peptides": []
+  },
+  ">Apfl_301": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 15,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">P00630": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 15,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">sp_Q7M4I6_PA2_BOMPE_Phospholipase_A2_Bombus_pensylvanicus": {
+   "peptides": []
+  },
+  ">P82971": {
+   "peptides": []
+  },
+  ">Bote_774_2": {
+   "peptides": []
+  },
+  ">Bote_774_1": {
+   "peptides": []
+  },
+  ">Bovo_931_2": {
+   "peptides": []
+  },
+  ">Eume_357": {
+   "peptides": []
+  },
+  ">Eudi273": {
+   "peptides": []
+  },
+  ">Frva_821": {
+   "peptides": []
+  },
+  ">Hala_229": {
+   "peptides": []
+  },
+  ">Mebe103": {
+   "peptides": []
+  },
+  ">TecaR2_7": {
+   "peptides": []
+  },
+  ">Ceca_431": {
+   "peptides": []
+  },
+  ">sp_I7GQA7_PA2_XYLAI_Phospholipase_A_2_Xylocopa_appendiculata_circumvolansPLA2": {
+   "peptides": []
+  },
+  ">Xylocopa_NODE_5216_length_2369_cov_28625.392328_g1_i12.p1": {
+   "peptides": []
+  },
+  ">Cogi_027": {
+   "peptides": []
+  },
+  ">Duno_011": {
+   "peptides": []
+  },
+  ">Laal_601": {
+   "peptides": []
+  },
+  ">Mege_371": {
+   "peptides": []
+  },
+  ">Osbi_762": {
+   "peptides": []
+  },
+  ">Osli_256": {
+   "peptides": []
+  },
+  ">Lihu_831": {
+   "peptides": []
+  },
+  ">Oobi_515": {
+   "peptides": []
+  },
+  ">Cafl_570": {
+   "peptides": []
+  },
+  ">Soin_697": {
+   "peptides": []
+  },
+  ">Waau_704": {
+   "peptides": []
+  },
+  ">Hasa_648": {
+   "peptides": []
+  },
+  ">Odbr_576": {
+   "peptides": []
+  },
+  ">Podo_021": {
+   "peptides": []
+  },
+  ">P0DUN9": {
+   "peptides": []
+  },
+  ">Q7M3V3": {
+   "peptides": []
+  },
+  ">Cecu027": {
+   "peptides": []
+  },
+  ">A6P331": {
+   "peptides": []
+  },
+  ">sp|P69391|PMTXA_ANOSM": {
+   "peptides": [
+    {
+     "start": 19,
+     "end": 33,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">sp|P69392|PMTXB_BATMC Beta-pompilidotoxin OS=Batozonellus maculifrons OX=308766 PE=1 SV=1": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 13,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">A0A0K1YW63": {
+   "peptides": [
+    {
+     "start": 67,
+     "end": 91,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">Q7YWB0": {
+   "peptides": [
+    {
+     "start": 21,
+     "end": 45,
+     "type": "Peptide"
+    },
+    {
+     "start": 1,
+     "end": 20,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">Apdo711SL": {
+   "peptides": []
+  },
+  ">Apdo570S": {
+   "peptides": [
+    {
+     "start": 21,
+     "end": 45,
+     "type": "Peptide"
+    },
+    {
+     "start": 1,
+     "end": 20,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">Apfl197S": {
+   "peptides": [
+    {
+     "start": 22,
+     "end": 46,
+     "type": "Peptide"
+    },
+    {
+     "start": 1,
+     "end": 21,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">Apfl927SL": {
+   "peptides": [
+    {
+     "start": 67,
+     "end": 91,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">C0HLU0": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 25,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">P02852": {
+   "peptides": [
+    {
+     "start": 21,
+     "end": 45,
+     "type": "Peptide"
+    },
+    {
+     "start": 1,
+     "end": 20,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">Apme639SL": {
+   "peptides": [
+    {
+     "start": 42,
+     "end": 67,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">Bote769SLmb": {
+   "peptides": [
+    {
+     "start": 32,
+     "end": 65,
+     "type": "Peptide"
+    },
+    {
+     "start": 1,
+     "end": 31,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">Bovo944SLmb": {
+   "peptides": [
+    {
+     "start": 67,
+     "end": 91,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">Eume180SL": {
+   "peptides": [
+    {
+     "start": 73,
+     "end": 97,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">Eudi029SLmb": {
+   "peptides": [
+    {
+     "start": 74,
+     "end": 98,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">Eudi058Smb": {
+   "peptides": [
+    {
+     "start": 114,
+     "end": 142,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">Frva450SLmb": {
+   "peptides": [
+    {
+     "start": 79,
+     "end": 104,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">Hala254SL": {
+   "peptides": [
+    {
+     "start": 70,
+     "end": 94,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">Mebes49Smb": {
+   "peptides": [
+    {
+     "start": 77,
+     "end": 101,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">Mebec91SLmb": {
+   "peptides": [
+    {
+     "start": 67,
+     "end": 92,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">Ceca446Smb": {
+   "peptides": [
+    {
+     "start": 82,
+     "end": 109,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">Xylocopa_R662287.p3": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 37,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">Cogi012Smb": {
+   "peptides": [
+    {
+     "start": 100,
+     "end": 125,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">Cogi007SLmb": {
+   "peptides": [
+    {
+     "start": 61,
+     "end": 81,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">Duno923Smb": {
+   "peptides": [
+    {
+     "start": 123,
+     "end": 149,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">Nome827Smb": {
+   "peptides": [
+    {
+     "start": 121,
+     "end": 147,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">Osbi739Smb": {
+   "peptides": [
+    {
+     "start": 154,
+     "end": 179,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">Osbi704SL": {
+   "peptides": [
+    {
+     "start": 69,
+     "end": 93,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">Osli279Smb": {
+   "peptides": [
+    {
+     "start": 155,
+     "end": 180,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">Osli259SL": {
+   "peptides": [
+    {
+     "start": 69,
+     "end": 93,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">Lihu840Smb": {
+   "peptides": [
+    {
+     "start": 122,
+     "end": 148,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">Oobi519Smb": {
+   "peptides": [
+    {
+     "start": 121,
+     "end": 149,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">tr_K7NBR8_K7NBR8_CAMFO_Secapin-2_Camponotus_floridanus": {
+   "peptides": [
+    {
+     "start": 22,
+     "end": 46,
+     "type": "Peptide"
+    },
+    {
+     "start": 1,
+     "end": 21,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">tr_A0A6I9VY29_A0A6I9VY29_9HYME_Secapin_Pogonomyrmex_barbatus_LOC105423812": {
+   "peptides": [
+    {
+     "start": 63,
+     "end": 87,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">Soin667Smb": {
+   "peptides": [
+    {
+     "start": 134,
+     "end": 159,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">tr_A0A4S2KK16_A0A4S2KK16_9HYME_Secapin_Temnothorax_longispinosus_DBV15_01238": {
+   "peptides": [
+    {
+     "start": 8,
+     "end": 37,
+     "type": "Peptide"
+    },
+    {
+     "start": 74,
+     "end": 98,
+     "type": "Peptide"
+    },
+    {
+     "start": 1,
+     "end": 7,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">sp_A0A6M6RE84_SECP_TETBN_Secapin_Tetramorium_bicarinatum": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 27,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">tr_A0A6M6RA65_A0A6M6RA65_TETBN_Secapin_Tetramorium_bicarinatum": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 28,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">tr_A0A195E0S3_A0A195E0S3_9HYME_Secapin_Trachymyrmex_cornetzi_ALC57_09159": {
+   "peptides": [
+    {
+     "start": 70,
+     "end": 96,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">Waau816SL": {
+   "peptides": [
+    {
+     "start": 71,
+     "end": 97,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">Waau837Smb": {
+   "peptides": [
+    {
+     "start": 116,
+     "end": 140,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">Hasa661Smb": {
+   "peptides": [
+    {
+     "start": 106,
+     "end": 130,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">Hasa467SL": {
+   "peptides": [
+    {
+     "start": 61,
+     "end": 86,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">Odbr538S": {
+   "peptides": [
+    {
+     "start": 124,
+     "end": 149,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">tr_A0A348G5Z6_A0A348G5Z6_ODOMO_Secapin_Odontomachus_monticola_SECP_OM": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 7,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">sp_Q7YWA6_SECP_POLHE_Secapin_Polistes_hebraeus": {
+   "peptides": [
+    {
+     "start": 21,
+     "end": 45,
+     "type": "Peptide"
+    },
+    {
+     "start": 1,
+     "end": 20,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">sp_Q7YWA7_SECP_VESMG_Secapin_Vespa_magnifica": {
+   "peptides": [
+    {
+     "start": 21,
+     "end": 45,
+     "type": "Peptide"
+    },
+    {
+     "start": 1,
+     "end": 20,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">sp_Q7YWA8_SECP_VESVN_Secapin_Vespa_velutina_nigrithorax": {
+   "peptides": [
+    {
+     "start": 21,
+     "end": 45,
+     "type": "Peptide"
+    },
+    {
+     "start": 1,
+     "end": 20,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">Navi759SL": {
+   "peptides": [
+    {
+     "start": 24,
+     "end": 47,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">C9WMM5": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 18,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">Q8MQS8": {
+   "peptides": []
+  },
+  ">B5U2W0": {
+   "peptides": []
+  },
+  ">Q7M4I3": {
+   "peptides": []
+  },
+  ">P0CH88": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 20,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">Q7Z269": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 14,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">Apdo349S4": {
+   "peptides": []
+  },
+  ">Apdo390S4": {
+   "peptides": []
+  },
+  ">Apfl285S4": {
+   "peptides": []
+  },
+  ">Apfl919S4": {
+   "peptides": []
+  },
+  ">Apme641S4b": {
+   "peptides": []
+  },
+  ">Apme650S4": {
+   "peptides": []
+  },
+  ">ApNO10530": {
+   "peptides": []
+  },
+  ">Bote557S4": {
+   "peptides": []
+  },
+  ">Bovo046S4a": {
+   "peptides": []
+  },
+  ">Eume960S4": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 5,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">Frva062SP": {
+   "peptides": []
+  },
+  ">Hala161S4b": {
+   "peptides": []
+  },
+  ">Mebe140aU": {
+   "peptides": []
+  },
+  ">TecaR31bU": {
+   "peptides": []
+  },
+  ">Ceca618S4": {
+   "peptides": []
+  },
+  ">Xy665387_1": {
+   "peptides": []
+  },
+  ">XyDN758": {
+   "peptides": []
+  },
+  ">Xyvi133SPa": {
+   "peptides": []
+  },
+  ">Cogi001aU": {
+   "peptides": []
+  },
+  ">Duno192S4": {
+   "peptides": []
+  },
+  ">Mege765S4a": {
+   "peptides": []
+  },
+  ">Nome330S4a": {
+   "peptides": []
+  },
+  ">Mero100S4a": {
+   "peptides": []
+  },
+  ">Mero100S4b": {
+   "peptides": []
+  },
+  ">Osbi656S4": {
+   "peptides": []
+  },
+  ">Osli253S4": {
+   "peptides": []
+  },
+  ">Lihu674S4": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 5,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">Lihu744SP": {
+   "peptides": []
+  },
+  ">Oobi506VS": {
+   "peptides": []
+  },
+  ">Cafl303S4a": {
+   "peptides": []
+  },
+  ">Cafl303S4b": {
+   "peptides": []
+  },
+  ">Cafl844S4": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 6,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">Soin538S4": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 6,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">Soin757VP": {
+   "peptides": []
+  },
+  ">Waau404VP": {
+   "peptides": []
+  },
+  ">Waau862S4": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 6,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">Hasa313S4": {
+   "peptides": []
+  },
+  ">Hasa547S4": {
+   "peptides": []
+  },
+  ">Odbr598a": {
+   "peptides": []
+  },
+  ">Odbr598b": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 24,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">Odbr665": {
+   "peptides": []
+  },
+  ">Navi624SP": {
+   "peptides": []
+  },
+  ">Ceci147a34": {
+   "peptides": []
+  },
+  ">Atro948a34": {
+   "peptides": []
+  },
+  ">Apce512PC": {
+   "peptides": []
+  },
+  ">Bovo994PC": {
+   "peptides": []
+  },
+  ">Eume029VP": {
+   "peptides": []
+  },
+  ">Eudi006aU": {
+   "peptides": []
+  },
+  ">Mequ710PCa": {
+   "peptides": [
+    {
+     "start": 17,
+     "end": 66,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">Mequ824PC": {
+   "peptides": []
+  },
+  ">TecaR31aU": {
+   "peptides": []
+  },
+  ">Xyvi121SPb": {
+   "peptides": []
+  },
+  ">Xyvi133SPd": {
+   "peptides": []
+  },
+  ">Xyvi181SPa": {
+   "peptides": [
+    {
+     "start": 69,
+     "end": 93,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">Mege7185PC": {
+   "peptides": []
+  },
+  ">Mege765PCb": {
+   "peptides": []
+  },
+  ">Mero138PC": {
+   "peptides": []
+  },
+  ">Mero353VP": {
+   "peptides": []
+  },
+  ">Lihu816PC": {
+   "peptides": []
+  },
+  ">Cafl214PCd": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 21,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">Poca578VP": {
+   "peptides": []
+  },
+  ">Navi758PCa": {
+   "peptides": []
+  },
+  ">Navi761Oa": {
+   "peptides": []
+  },
+  ">Ceci010aPC": {
+   "peptides": []
+  },
+  ">Ceci762aPC": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 40,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">Ceci933bPC": {
+   "peptides": []
+  },
+  ">Atro311aPC": {
+   "peptides": []
+  },
+  ">Atro319aPC": {
+   "peptides": []
+  },
+  ">Atro994aPC": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 22,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">Apce501VB": {
+   "peptides": []
+  },
+  ">Apdo397VB": {
+   "peptides": []
+  },
+  ">Apfl177VB": {
+   "peptides": []
+  },
+  ">ApR1025617": {
+   "peptides": []
+  },
+  ">Bote765d": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 25,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">Bote765e": {
+   "peptides": []
+  },
+  ">Bote765f": {
+   "peptides": []
+  },
+  ">Bote765g": {
+   "peptides": []
+  },
+  ">Bote765VPb": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 11,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">Bote765VPc": {
+   "peptides": []
+  },
+  ">Bote765VSa": {
+   "peptides": []
+  },
+  ">Bovo046VBb": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 32,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">Bovo046VBc": {
+   "peptides": []
+  },
+  ">Bovo130VPa": {
+   "peptides": []
+  },
+  ">Bovo555VB": {
+   "peptides": []
+  },
+  ">Bovo934d": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 12,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">Bovo934e": {
+   "peptides": []
+  },
+  ">Bovo991c": {
+   "peptides": []
+  },
+  ">Bovo991VBa": {
+   "peptides": []
+  },
+  ">Bovo991VPb": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 26,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">Eume280VB": {
+   "peptides": []
+  },
+  ">Hala161VBa": {
+   "peptides": []
+  },
+  ">Ceca041VBa": {
+   "peptides": []
+  },
+  ">Ceca041VBb": {
+   "peptides": []
+  },
+  ">Ceca310SPb": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 20,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">Ceca310SPc": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 10,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">Ceca310VBd": {
+   "peptides": []
+  },
+  ">Ceca310VPa": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 20,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">Ceca489VBa": {
+   "peptides": []
+  },
+  ">Ceca489Vbb": {
+   "peptides": []
+  },
+  ">Ceca743VPa": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 26,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">Xy662327_1": {
+   "peptides": []
+  },
+  ">Xy662327_2": {
+   "peptides": []
+  },
+  ">Duno994Vb": {
+   "peptides": []
+  },
+  ">Mege582VB": {
+   "peptides": []
+  },
+  ">Nome330VBb": {
+   "peptides": []
+  },
+  ">Mero169SPb": {
+   "peptides": []
+  },
+  ">Mero169SPc": {
+   "peptides": []
+  },
+  ">Mero169SPd": {
+   "peptides": []
+  },
+  ">Mero169VBa": {
+   "peptides": [
+    {
+     "start": 22,
+     "end": 61,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">Mero169VBe": {
+   "peptides": []
+  },
+  ">Osbi690VP": {
+   "peptides": []
+  },
+  ">Osli253VBa": {
+   "peptides": []
+  },
+  ">Lihu815VP": {
+   "peptides": []
+  },
+  ">Oobi510VP": {
+   "peptides": []
+  },
+  ">Cafl314VPa": {
+   "peptides": []
+  },
+  ">Cafl314VPb": {
+   "peptides": []
+  },
+  ">Soin547VPa": {
+   "peptides": []
+  },
+  ">Soin547VPb": {
+   "peptides": []
+  },
+  ">Waau024VP": {
+   "peptides": []
+  },
+  ">Hasa327BV": {
+   "peptides": []
+  },
+  ">Odbr515": {
+   "peptides": []
+  },
+  ">Poca951VPa": {
+   "peptides": []
+  },
+  ">Podo988VP": {
+   "peptides": []
+  },
+  ">Navi758Oc": {
+   "peptides": []
+  },
+  ">Navi758Od": {
+   "peptides": []
+  },
+  ">Navi758Ol": {
+   "peptides": []
+  },
+  ">Ceci933aVP": {
+   "peptides": []
+  },
+  ">Atro962aVP": {
+   "peptides": []
+  },
+  ">Apce663SN": {
+   "peptides": []
+  },
+  ">Apdo483SN": {
+   "peptides": []
+  },
+  ">Apfl058SN": {
+   "peptides": []
+  },
+  ">Apme638SN": {
+   "peptides": []
+  },
+  ">Bote762SN": {
+   "peptides": []
+  },
+  ">Bovo924SN": {
+   "peptides": []
+  },
+  ">Eume697VP": {
+   "peptides": []
+  },
+  ">Eudi002aU": {
+   "peptides": []
+  },
+  ">Frva254SP": {
+   "peptides": []
+  },
+  ">Hala218VP": {
+   "peptides": []
+  },
+  ">Mebe154aU": {
+   "peptides": []
+  },
+  ">Mequ694SN": {
+   "peptides": []
+  },
+  ">TecaR23aU": {
+   "peptides": []
+  },
+  ">Ceca072SN": {
+   "peptides": []
+  },
+  ">Xyvi127SPa": {
+   "peptides": []
+  },
+  ">Xyvi369SPb": {
+   "peptides": []
+  },
+  ">Cogi013aU": {
+   "peptides": []
+  },
+  ">Duno190VP": {
+   "peptides": []
+  },
+  ">Mege670PE": {
+   "peptides": []
+  },
+  ">Nome141VP": {
+   "peptides": []
+  },
+  ">Mero180VP": {
+   "peptides": []
+  },
+  ">Osbi680SN": {
+   "peptides": []
+  },
+  ">Osli252VP": {
+   "peptides": []
+  },
+  ">Lihu675VP": {
+   "peptides": []
+  },
+  ">Cafl230SN": {
+   "peptides": []
+  },
+  ">Soin618SN": {
+   "peptides": []
+  },
+  ">Waau914SN": {
+   "peptides": []
+  },
+  ">Hasa492SN": {
+   "peptides": []
+  },
+  ">Navi601PE": {
+   "peptides": []
+  },
+  ">Ceci027aVP": {
+   "peptides": []
+  },
+  ">Ceci865aPE": {
+   "peptides": []
+  },
+  ">Atro286aSx": {
+   "peptides": []
+  },
+  ">Atro286bSx": {
+   "peptides": []
+  },
+  ">Atro304bPE": {
+   "peptides": []
+  },
+  ">Atro994bBi": {
+   "peptides": []
+  },
+  ">Apce675SN": {
+   "peptides": []
+  },
+  ">Apdo567SN": {
+   "peptides": []
+  },
+  ">Apfl127SNb": {
+   "peptides": []
+  },
+  ">Apme652SNc": {
+   "peptides": []
+  },
+  ">Bote776TAa": {
+   "peptides": []
+  },
+  ">Bovo927TA": {
+   "peptides": []
+  },
+  ">Eume955PE": {
+   "peptides": []
+  },
+  ">Hala293SN": {
+   "peptides": []
+  },
+  ">Mebec60bU": {
+   "peptides": []
+  },
+  ">Mequ821SN": {
+   "peptides": []
+  },
+  ">Xyvi181SPc": {
+   "peptides": []
+  },
+  ">Mege465SN": {
+   "peptides": []
+  },
+  ">Nome640SNb": {
+   "peptides": []
+  },
+  ">Mero230SN": {
+   "peptides": []
+  },
+  ">Osbi697SN": {
+   "peptides": []
+  },
+  ">Osli281SNa": {
+   "peptides": []
+  },
+  ">Lihu768SNa": {
+   "peptides": []
+  },
+  ">Lihu768SNd": {
+   "peptides": []
+  },
+  ">Lihu768TRb": {
+   "peptides": []
+  },
+  ">Lihu768TRc": {
+   "peptides": []
+  },
+  ">Oobi511SN": {
+   "peptides": []
+  },
+  ">Cafl849SN": {
+   "peptides": []
+  },
+  ">Soin553a": {
+   "peptides": []
+  },
+  ">Soin553c": {
+   "peptides": []
+  },
+  ">Soin553e": {
+   "peptides": []
+  },
+  ">Soin553f": {
+   "peptides": []
+  },
+  ">Waau892ACa": {
+   "peptides": []
+  },
+  ">Waau892SNb": {
+   "peptides": []
+  },
+  ">Hasa602SN": {
+   "peptides": []
+  },
+  ">Odbr497a": {
+   "peptides": []
+  },
+  ">Odbr497b": {
+   "peptides": []
+  },
+  ">Poca845SN": {
+   "peptides": []
+  },
+  ">Podo994SN": {
+   "peptides": []
+  },
+  ">Navi757b": {
+   "peptides": []
+  },
+  ">Ceci941aSN": {
+   "peptides": []
+  },
+  ">Atro292aSN": {
+   "peptides": []
+  },
+  ">Atro304aSN": {
+   "peptides": []
+  },
+  ">Mero114S8d": {
+   "peptides": []
+  },
+  ">Lihu681SNa": {
+   "peptides": []
+  },
+  ">Oobi507SNb": {
+   "peptides": []
+  },
+  ">Cafl214SNa": {
+   "peptides": []
+  },
+  ">Soin677SNk": {
+   "peptides": []
+  },
+  ">Waau376SNb": {
+   "peptides": []
+  },
+  ">Hasa964SN": {
+   "peptides": []
+  },
+  ">Odbr679": {
+   "peptides": []
+  },
+  ">Podo008SNa": {
+   "peptides": []
+  },
+  ">Navi761a": {
+   "peptides": []
+  },
+  ">Ceci291aSN": {
+   "peptides": []
+  },
+  ">Atro950aSN": {
+   "peptides": []
+  },
+  ">Apce208SN": {
+   "peptides": []
+  },
+  ">Apdo353SN": {
+   "peptides": []
+  },
+  ">Apfl127SNa": {
+   "peptides": []
+  },
+  ">Apme652SNa": {
+   "peptides": []
+  },
+  ">Apme652SNb": {
+   "peptides": []
+  },
+  ">Bote776SNb": {
+   "peptides": []
+  },
+  ">Bovo131SN": {
+   "peptides": []
+  },
+  ">Eume639SNc": {
+   "peptides": []
+  },
+  ">Eume639SPa": {
+   "peptides": []
+  },
+  ">Eudi193aU_SP": {
+   "peptides": []
+  },
+  ">Eudi193bU": {
+   "peptides": []
+  },
+  ">Eudi193cU": {
+   "peptides": []
+  },
+  ">Frva558SP": {
+   "peptides": []
+  },
+  ">Hala504PEc": {
+   "peptides": []
+  },
+  ">Hala504PEe": {
+   "peptides": []
+  },
+  ">Hala504SNa": {
+   "peptides": []
+  },
+  ">Hala504SNf": {
+   "peptides": []
+  },
+  ">Hala504VPb": {
+   "peptides": []
+  },
+  ">Hala504VPg": {
+   "peptides": []
+  },
+  ">Mebe011": {
+   "peptides": []
+  },
+  ">Mebec60aU_SP": {
+   "peptides": []
+  },
+  ">Mequ026SN": {
+   "peptides": []
+  },
+  ">Mequ812SN": {
+   "peptides": []
+  },
+  ">Tecac60bx": {
+   "peptides": []
+  },
+  ">Ceca565SPa": {
+   "peptides": []
+  },
+  ">Ceca565SPb": {
+   "peptides": []
+  },
+  ">Ceca946SN": {
+   "peptides": []
+  },
+  ">XyNO5118": {
+   "peptides": []
+  },
+  ">Xyvi181SPb": {
+   "peptides": []
+  },
+  ">Xyvi181SPd": {
+   "peptides": []
+  },
+  ">Xyvi181SPe": {
+   "peptides": []
+  },
+  ">Cogi004": {
+   "peptides": []
+  },
+  ">Duno917VP": {
+   "peptides": []
+  },
+  ">Mege668SN": {
+   "peptides": []
+  },
+  ">Mero072SPa": {
+   "peptides": []
+  },
+  ">Mero072SPb": {
+   "peptides": []
+  },
+  ">Mero114PEc": {
+   "peptides": []
+  },
+  ">Osbi770SN": {
+   "peptides": []
+  },
+  ">Osli281SNb": {
+   "peptides": []
+  },
+  ">Lihu681PEb": {
+   "peptides": []
+  },
+  ">Oobi507PEa": {
+   "peptides": []
+  },
+  ">Cafl214PEb": {
+   "peptides": []
+  },
+  ">Cafl214SNc": {
+   "peptides": []
+  },
+  ">Soin570VP": {
+   "peptides": []
+  },
+  ">Soin677PEb": {
+   "peptides": []
+  },
+  ">Soin677PEj": {
+   "peptides": []
+  },
+  ">Soin677SPd": {
+   "peptides": []
+  },
+  ">Soin677SPf": {
+   "peptides": []
+  },
+  ">Soin677SPg": {
+   "peptides": []
+  },
+  ">Soin677SPh": {
+   "peptides": []
+  },
+  ">Soin677VBa": {
+   "peptides": []
+  },
+  ">Soin677VBc": {
+   "peptides": []
+  },
+  ">Soin677VPi": {
+   "peptides": []
+  },
+  ">Waau376PEa": {
+   "peptides": []
+  },
+  ">Odbr783": {
+   "peptides": []
+  },
+  ">Poca554VPa": {
+   "peptides": []
+  },
+  ">Podo008VPb": {
+   "peptides": []
+  },
+  ">Navi761On": {
+   "peptides": []
+  },
+  ">Ceci291bSN": {
+   "peptides": []
+  },
+  ">Atro950bVP": {
+   "peptides": []
+  },
+  ">Atro950cSN": {
+   "peptides": []
+  },
+  ">Q9NH75": {
+   "peptides": []
+  },
+  ">P35777": {
+   "peptides": []
+  },
+  ">P35775": {
+   "peptides": []
+  },
+  ">P35776": {
+   "peptides": []
+  },
+  ">A5X2H7": {
+   "peptides": []
+  },
+  ">P35778": {
+   "peptides": []
+  },
+  ">P35779": {
+   "peptides": []
+  },
+  ">C0ITL3": {
+   "peptides": []
+  },
+  ">P0DSI3": {
+   "peptides": []
+  },
+  ">B2MVK7": {
+   "peptides": []
+  },
+  ">Q05109": {
+   "peptides": []
+  },
+  ">P81656": {
+   "peptides": []
+  },
+  ">P35780": {
+   "peptides": []
+  },
+  ">P83377": {
+   "peptides": []
+  },
+  ">P10737": {
+   "peptides": []
+  },
+  ">P35781": {
+   "peptides": []
+  },
+  ">P35782": {
+   "peptides": []
+  },
+  ">P81657": {
+   "peptides": []
+  },
+  ">P35760": {
+   "peptides": []
+  },
+  ">Q2L6Z1": {
+   "peptides": []
+  },
+  ">P35785": {
+   "peptides": []
+  },
+  ">P35786": {
+   "peptides": []
+  },
+  ">A9YME1": {
+   "peptides": []
+  },
+  ">Apce208U": {
+   "peptides": []
+  },
+  ">Apdo353U": {
+   "peptides": []
+  },
+  ">Apfl127Un": {
+   "peptides": []
+  },
+  ">Apme652Un": {
+   "peptides": []
+  },
+  ">Bote776Un": {
+   "peptides": []
+  },
+  ">Bovo131U": {
+   "peptides": []
+  },
+  ">Eume639U": {
+   "peptides": []
+  },
+  ">Eudi193aU_VA": {
+   "peptides": []
+  },
+  ">Frva558": {
+   "peptides": []
+  },
+  ">Hala140aU": {
+   "peptides": []
+  },
+  ">Mebec60aU_VA": {
+   "peptides": []
+  },
+  ">Mequ706U": {
+   "peptides": []
+  },
+  ">Tetac60aU": {
+   "peptides": []
+  },
+  ">Ceca565Ub": {
+   "peptides": []
+  },
+  ">Xyvi181VAd": {
+   "peptides": []
+  },
+  ">Xyvi463VAa": {
+   "peptides": []
+  },
+  ">Cogi004aU": {
+   "peptides": []
+  },
+  ">Duno917U": {
+   "peptides": []
+  },
+  ">Mege668U": {
+   "peptides": []
+  },
+  ">Nome640U": {
+   "peptides": []
+  },
+  ">Mero436a": {
+   "peptides": []
+  },
+  ">Osbi753Ua": {
+   "peptides": []
+  },
+  ">Osli257Ug": {
+   "peptides": []
+  },
+  ">Lihu699c": {
+   "peptides": []
+  },
+  ">Oobi507Ud": {
+   "peptides": []
+  },
+  ">Cafl236U": {
+   "peptides": []
+  },
+  ">Soin570Ua": {
+   "peptides": []
+  },
+  ">Waau605c": {
+   "peptides": []
+  },
+  ">Hasa183b": {
+   "peptides": []
+  },
+  ">Hasa183c": {
+   "peptides": []
+  },
+  ">Odbr457Ub": {
+   "peptides": []
+  },
+  ">Podo995Ua": {
+   "peptides": []
+  },
+  ">Navi760Ug": {
+   "peptides": []
+  },
+  ">Ceci865bU": {
+   "peptides": []
+  },
+  ">Atro966dU": {
+   "peptides": []
+  },
+  ">Eudi940aU": {
+   "peptides": []
+  },
+  ">Lihu777a": {
+   "peptides": []
+  },
+  ">Oobi515CRa": {
+   "peptides": []
+  },
+  ">Oobi515CRb": {
+   "peptides": [
+    {
+     "start": 301,
+     "end": 326,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">Cafl287b": {
+   "peptides": [
+    {
+     "start": 308,
+     "end": 327,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">Hasa700aV3": {
+   "peptides": []
+  },
+  ">Odbr534V5b": {
+   "peptides": []
+  },
+  ">Navi758CRo": {
+   "peptides": []
+  },
+  ">Navi759bV5": {
+   "peptides": []
+  },
+  ">Ceci832aC2": {
+   "peptides": []
+  },
+  ">Atro370aC2": {
+   "peptides": []
+  },
+  ">Bote777V52": {
+   "peptides": []
+  },
+  ">Bovo985V52": {
+   "peptides": []
+  },
+  ">Eume479V5": {
+   "peptides": []
+  },
+  ">Frva454": {
+   "peptides": []
+  },
+  ">Hala429V51": {
+   "peptides": []
+  },
+  ">Mequ243V5": {
+   "peptides": []
+  },
+  ">Tetar14aO": {
+   "peptides": []
+  },
+  ">Ceca358V3": {
+   "peptides": []
+  },
+  ">Xyvi298VAa": {
+   "peptides": []
+  },
+  ">Duno986V3": {
+   "peptides": []
+  },
+  ">Mege824V52": {
+   "peptides": []
+  },
+  ">Nome504V5": {
+   "peptides": []
+  },
+  ">Mero109V5": {
+   "peptides": []
+  },
+  ">Osbi788V5": {
+   "peptides": []
+  },
+  ">Lihu777b": {
+   "peptides": []
+  },
+  ">Oobi515V5c": {
+   "peptides": []
+  },
+  ">Cafl287a": {
+   "peptides": []
+  },
+  ">Soin821U": {
+   "peptides": []
+  },
+  ">Waau715V5": {
+   "peptides": []
+  },
+  ">Hasa700bV5": {
+   "peptides": []
+  },
+  ">Odbr534V5a": {
+   "peptides": []
+  },
+  ">Poca602V5": {
+   "peptides": []
+  },
+  ">Podo111V5": {
+   "peptides": []
+  },
+  ">Navi759cV51": {
+   "peptides": []
+  },
+  ">Apce566VA3": {
+   "peptides": [
+    {
+     "start": 277,
+     "end": 303,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">Apdo372VA3": {
+   "peptides": [
+    {
+     "start": 278,
+     "end": 303,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">Apme638V3a": {
+   "peptides": []
+  },
+  ">Apme638V3b": {
+   "peptides": [
+    {
+     "start": 203,
+     "end": 228,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">Bote767a": {
+   "peptides": []
+  },
+  ">Bote767b": {
+   "peptides": [
+    {
+     "start": 80,
+     "end": 107,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">Bovo953a": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 12,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">Bovo953b": {
+   "peptides": [
+    {
+     "start": 169,
+     "end": 192,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">Eume048": {
+   "peptides": []
+  },
+  ">Eume878V5": {
+   "peptides": []
+  },
+  ">Eudi508aU": {
+   "peptides": []
+  },
+  ">Frva326a": {
+   "peptides": []
+  },
+  ">Frva326b": {
+   "peptides": []
+  },
+  ">Frva326c": {
+   "peptides": []
+  },
+  ">Hala137b": {
+   "peptides": []
+  },
+  ">Mebec23aU": {
+   "peptides": []
+  },
+  ">Mequ746aV5": {
+   "peptides": []
+  },
+  ">Mequ746b": {
+   "peptides": []
+  },
+  ">Tetac70aUx": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 19,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">Ceca567a": {
+   "peptides": [
+    {
+     "start": 176,
+     "end": 206,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">Ceca567b": {
+   "peptides": []
+  },
+  ">Xyvi049VAb": {
+   "peptides": [
+    {
+     "start": 163,
+     "end": 186,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">Xyvi049VAc": {
+   "peptides": []
+  },
+  ">Cogi014": {
+   "peptides": []
+  },
+  ">Duno895b": {
+   "peptides": []
+  },
+  ">Nome755Ub": {
+   "peptides": [
+    {
+     "start": 193,
+     "end": 216,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">Nome755V3a": {
+   "peptides": []
+  },
+  ">Mero210aU": {
+   "peptides": [
+    {
+     "start": 150,
+     "end": 173,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">Mero210bV52": {
+   "peptides": []
+  },
+  ">Osbi697Ua": {
+   "peptides": [
+    {
+     "start": 131,
+     "end": 154,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">Osbi697V3b": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 14,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">Osli271V3": {
+   "peptides": [
+    {
+     "start": 263,
+     "end": 286,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">Lihu620_VA": {
+   "peptides": []
+  },
+  ">Cafl547V3": {
+   "peptides": [
+    {
+     "start": 233,
+     "end": 255,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">Soin529_VA": {
+   "peptides": []
+  },
+  ">Waau894V3": {
+   "peptides": []
+  },
+  ">Odbr457V5c": {
+   "peptides": []
+  },
+  ">Navi758V3a": {
+   "peptides": [
+    {
+     "start": 275,
+     "end": 305,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">Ceci403aV5": {
+   "peptides": [
+    {
+     "start": 284,
+     "end": 307,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">Apfl393VA3": {
+   "peptides": []
+  },
+  ">Hala140bV3": {
+   "peptides": []
+  },
+  ">Ceca342V3": {
+   "peptides": []
+  },
+  ">Ceca565d": {
+   "peptides": []
+  },
+  ">Ceca565V3a": {
+   "peptides": []
+  },
+  ">Ceca565V3e": {
+   "peptides": []
+  },
+  ">Ceca565V5c": {
+   "peptides": []
+  },
+  ">Ceca565V5f": {
+   "peptides": []
+  },
+  ">Xy_N6624": {
+   "peptides": []
+  },
+  ">Xyvi181VAa": {
+   "peptides": []
+  },
+  ">Xyvi181VAb": {
+   "peptides": []
+  },
+  ">Xyvi181VAc": {
+   "peptides": []
+  },
+  ">Xyvi181VAe": {
+   "peptides": []
+  },
+  ">Cogi004bU": {
+   "peptides": []
+  },
+  ">Nome633V3": {
+   "peptides": []
+  },
+  ">Mero436bV3": {
+   "peptides": []
+  },
+  ">Osbi753V3b": {
+   "peptides": []
+  },
+  ">Osbi753V3d": {
+   "peptides": []
+  },
+  ">Osbi753V3f": {
+   "peptides": []
+  },
+  ">Osbi753V3g": {
+   "peptides": []
+  },
+  ">Osbi753V3h": {
+   "peptides": []
+  },
+  ">Osbi753V3i": {
+   "peptides": []
+  },
+  ">Osbi753V5c": {
+   "peptides": []
+  },
+  ">Osbi753V5e": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 12,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">Osli257Ub": {
+   "peptides": []
+  },
+  ">Osli257Uc": {
+   "peptides": []
+  },
+  ">Osli257Ud": {
+   "peptides": []
+  },
+  ">Osli257Uf": {
+   "peptides": []
+  },
+  ">Osli257V3a": {
+   "peptides": []
+  },
+  ">Osli257V5e": {
+   "peptides": [
+    {
+     "start": 216,
+     "end": 230,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">Lihu699a": {
+   "peptides": []
+  },
+  ">Lihu699b": {
+   "peptides": []
+  },
+  ">Oobi507V3b": {
+   "peptides": []
+  },
+  ">Oobi507V3c": {
+   "peptides": []
+  },
+  ">Soin570V3b": {
+   "peptides": []
+  },
+  ">Soin570V3c": {
+   "peptides": []
+  },
+  ">Waau459V3b": {
+   "peptides": []
+  },
+  ">Waau605V3b": {
+   "peptides": []
+  },
+  ">Waau832V3": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 9,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">Waau855a": {
+   "peptides": []
+  },
+  ">Waau855b": {
+   "peptides": []
+  },
+  ">Waau863b": {
+   "peptides": []
+  },
+  ">Hasa183a": {
+   "peptides": []
+  },
+  ">Hasa425V3": {
+   "peptides": []
+  },
+  ">Odbr457V3a": {
+   "peptides": []
+  },
+  ">sp_P35759": {
+   "peptides": []
+  },
+  ">sp_D4P2Y4": {
+   "peptides": []
+  },
+  ">sp_P86686": {
+   "peptides": []
+  },
+  ">sp_Q7Z156": {
+   "peptides": []
+  },
+  ">sp_Q05108": {
+   "peptides": []
+  },
+  ">sp_P10736": {
+   "peptides": []
+  },
+  ">sp_P86870": {
+   "peptides": []
+  },
+  ">sp_P0DMB9": {
+   "peptides": []
+  },
+  ">sp_P35783": {
+   "peptides": []
+  },
+  ">sp_P35784": {
+   "peptides": []
+  },
+  ">sp_P35787": {
+   "peptides": []
+  },
+  ">sp_Q05110": {
+   "peptides": []
+  },
+  ">Navi758V3b": {
+   "peptides": []
+  },
+  ">Navi760Ud": {
+   "peptides": []
+  },
+  ">Navi760Ue": {
+   "peptides": []
+  },
+  ">Navi760V3c": {
+   "peptides": []
+  },
+  ">Navi760V5a": {
+   "peptides": []
+  },
+  ">Navi760V5b": {
+   "peptides": []
+  },
+  ">Navi760V5f": {
+   "peptides": []
+  },
+  ">Ceci865aV3": {
+   "peptides": []
+  },
+  ">Atro373aV3": {
+   "peptides": []
+  },
+  ">Atro966V3b": {
+   "peptides": []
+  },
+  ">Atro966V5a": {
+   "peptides": [
+    {
+     "start": 210,
+     "end": 233,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">Dq_pICK": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 31,
+     "type": "Peptide"
+    }
+   ]
+  },
+  ">Dq_tplpCC34TX09": {
+   "peptides": [
+    {
+     "start": 15,
+     "end": 44,
+     "type": "Peptide"
+    },
+    {
+     "start": 1,
+     "end": 14,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">Dq_plp": {
+   "peptides": [
+    {
+     "start": 19,
+     "end": 41,
+     "type": "Peptide"
+    },
+    {
+     "start": 1,
+     "end": 18,
+     "type": "Propeptide"
+    }
+   ]
+  },
+  ">D_plp": {
+   "peptides": []
+  },
+  ">D_pl": {
+   "peptides": []
+  },
+  ">Kspi": {
+   "peptides": []
+  },
+  ">Dq_VAp": {
+   "peptides": []
+  },
+  ">Mg_MIITX1-Mg3a": {
+   "peptides": []
+  }
+ }
+}

@@ -35,6 +35,8 @@ The dataset curation process involved the following steps:
 ```
 ├── data/
 │   ├── # Dataset in different versions
+├── json-files/
+│   ├── # Prediction files generated from SignalP6.0 or DeepPeptide
 ├── logs/
 │   ├── # Logs generated from scripts
 ├── src/

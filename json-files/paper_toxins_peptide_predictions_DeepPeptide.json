@@ -1,0 +1,172 @@
+{
+ "INFO": {
+  "size": 24
+ },
+ "PREDICTIONS": {
+  ">MYRTX1-Pm1a": {
+   "peptides": [],
+   "figure": "out_23_01_paper_stuff/myrtx1-pm1a.png"
+  },
+  ">MYRTX1-Pm2a": {
+   "peptides": [],
+   "figure": "out_23_01_paper_stuff/myrtx1-pm2a.png"
+  },
+  ">MYRTX1-Pm3a/b": {
+   "peptides": [
+    {
+     "start": 24,
+     "end": 59,
+     "type": "Propeptide"
+    }
+   ],
+   "figure": "out_23_01_paper_stuff/myrtx1-pm3ab.png"
+  },
+  ">MYRTX1-Pm4a/b": {
+   "peptides": [
+    {
+     "start": 54,
+     "end": 71,
+     "type": "Peptide"
+    },
+    {
+     "start": 24,
+     "end": 53,
+     "type": "Propeptide"
+    }
+   ],
+   "figure": "out_23_01_paper_stuff/myrtx1-pm4ab.png"
+  },
+  ">MYRTX1-Pm5a": {
+   "peptides": [],
+   "figure": "out_23_01_paper_stuff/myrtx1-pm5a.png"
+  },
+  ">MYRTX1-Pm8a": {
+   "peptides": [],
+   "figure": "out_23_01_paper_stuff/myrtx1-pm8a.png"
+  },
+  ">MYRTX1-Pm7a/b": {
+   "peptides": [
+    {
+     "start": 41,
+     "end": 57,
+     "type": "Peptide"
+    },
+    {
+     "start": 24,
+     "end": 40,
+     "type": "Propeptide"
+    }
+   ],
+   "figure": "out_23_01_paper_stuff/myrtx1-pm7ab.png"
+  },
+  ">MYRTX1-Pm6a": {
+   "peptides": [
+    {
+     "start": 15,
+     "end": 44,
+     "type": "Peptide"
+    },
+    {
+     "start": 1,
+     "end": 14,
+     "type": "Propeptide"
+    }
+   ],
+   "figure": "out_23_01_paper_stuff/myrtx1-pm6a.png"
+  },
+  ">MYRTX1-Pr4a": {
+   "peptides": [],
+   "figure": "out_23_01_paper_stuff/myrtx1-pr4a.png"
+  },
+  ">MYRTX1-Pr4b": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 37,
+     "type": "Peptide"
+    }
+   ],
+   "figure": "out_23_01_paper_stuff/myrtx1-pr4b.png"
+  },
+  ">MYRTX1-Pr4c": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 37,
+     "type": "Peptide"
+    }
+   ],
+   "figure": "out_23_01_paper_stuff/myrtx1-pr4c.png"
+  },
+  ">MYRTX1-Pr7a": {
+   "peptides": [],
+   "figure": "out_23_01_paper_stuff/myrtx1-pr7a.png"
+  },
+  ">MYRTX1-Pr1a": {
+   "peptides": [],
+   "figure": "out_23_01_paper_stuff/myrtx1-pr1a.png"
+  },
+  ">MYRTX1-Pr2a": {
+   "peptides": [],
+   "figure": "out_23_01_paper_stuff/myrtx1-pr2a.png"
+  },
+  ">MYRTX1-Pr2b": {
+   "peptides": [],
+   "figure": "out_23_01_paper_stuff/myrtx1-pr2b.png"
+  },
+  ">MYRTX1-2c": {
+   "peptides": [],
+   "figure": "out_23_01_paper_stuff/myrtx1-2c.png"
+  },
+  ">MYRTX1-Pr2d": {
+   "peptides": [],
+   "figure": "out_23_01_paper_stuff/myrtx1-pr2d.png"
+  },
+  ">MYRTX1-Pr3a": {
+   "peptides": [
+    {
+     "start": 31,
+     "end": 51,
+     "type": "Peptide"
+    }
+   ],
+   "figure": "out_23_01_paper_stuff/myrtx1-pr3a.png"
+  },
+  ">MYRTX1-Pr3b": {
+   "peptides": [],
+   "figure": "out_23_01_paper_stuff/myrtx1-pr3b.png"
+  },
+  ">MYRTX1-Pr5a": {
+   "peptides": [],
+   "figure": "out_23_01_paper_stuff/myrtx1-pr5a.png"
+  },
+  ">MYRTX1-Pr6a": {
+   "peptides": [],
+   "figure": "out_23_01_paper_stuff/myrtx1-pr6a.png"
+  },
+  ">MYRTX1-Pr6b": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 33,
+     "type": "Peptide"
+    }
+   ],
+   "figure": "out_23_01_paper_stuff/myrtx1-pr6b.png"
+  },
+  ">MYRTX1-Pr8a": {
+   "peptides": [],
+   "figure": "out_23_01_paper_stuff/myrtx1-pr8a.png"
+  },
+  ">MYRTX1-Pr8b": {
+   "peptides": [
+    {
+     "start": 1,
+     "end": 35,
+     "type": "Propeptide"
+    }
+   ],
+   "figure": "out_23_01_paper_stuff/myrtx1-pr8b.png"
+  }
+ }
+}
