@@ -20,9 +20,11 @@ The dataset curation process involved the following steps:
    - Used SignalP 6.0 to identify and verify signal peptides.
    - Updated mature sequences based on SignalP predictions.
 
-5. **Check Mature Sequences for Propeptides**
+5. **Check Mature Sequences for Propeptides:**
    - Used DeepPeptide to identify and verify propeptides.
    - Updated mature sequences based on DeepPeptide predictions.
+
+6. **Search publications for toxins not yet in the dataset.**
 
 ## Tools and Software
 - **SignalP 6.0**: Used for signal peptide prediction.
