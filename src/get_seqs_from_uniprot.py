@@ -127,9 +127,6 @@ def process_dataset(input_file: Path, output_file: Path) -> Tuple[int, int, int]
                         logging.warning(f"Could not fetch sequence for {uniprot_id}")
                     
                     writer.writerow(row)
-                #else:
-                    # No sequences and no UniProt ID
-                    #writer.writerow(row)
                     
     except Exception as e:
         logging.error(f"Error processing dataset: {str(e)}")

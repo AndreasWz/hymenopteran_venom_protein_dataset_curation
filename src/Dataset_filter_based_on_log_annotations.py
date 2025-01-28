@@ -17,19 +17,19 @@ from typing import Set, Tuple
 def parse_log_file(file_path: str) -> Tuple[Set[int], Set[int], Set[int]]:
     """
     Parses a duplicate sequences log file and extracts line classifications.
-    
+
     Args:
         file_path (str): Path to the log file.
-    
+
     Returns:
-        Tuple[Set[int], Set[int], Set[int]]: Sets of line numbers for 
+        Tuple[Set[int], Set[int], Set[int]]: Sets of line numbers for
                                              keep (+), remove (-), and uncertain (?).
     """
     keep_lines = set()
     remove_lines = set()
     uncertain_lines = set()
 
-    with open(file_path, 'r') as file:
+    with open(file_path, "r", encoding="utf-8") as file:
         for line in file:
             line = line.strip()
             if line.startswith("+"):
@@ -57,26 +57,26 @@ def filter_dataset(
     keep_lines: Set[int],
     remove_lines: Set[int],
     uncertain_lines: Set[int],
-    treat_uncertain_as_keep: bool
+    treat_uncertain_as_keep: bool,
 ) -> None:
     """
-    Filter the dataset based on the line classifications.
-    
-    Args:
-        input_path: Path to input CSV file
-        output_path: Path to output CSV file
-        keep_lines: Set of line numbers to keep
-        remove_lines: Set of line numbers to remove
-        uncertain_lines: Set of line numbers marked with ?
-        treat_uncertain_as_keep: Whether to treat ? lines as keep (+) or remove (-)
-    """
-    with open(input_path, 'r', encoding='utf-8') as infile, \
-         open(output_path, 'w', encoding='utf-8', newline='') as outfile:
-        
-        reader = csv.reader(infile, delimiter=';')
-        writer = csv.writer(outfile, delimiter=';')
+    Filters the dataset based on the line classifications.
 
-        for i, row in enumerate(reader, 1):  # Line numbers start at 1
+    Args:
+        input_path (Path): Path to the input CSV file.
+        output_path (Path): Path to the output CSV file.
+        keep_lines (Set[int]): Set of line numbers to keep.
+        remove_lines (Set[int]): Set of line numbers to remove.
+        uncertain_lines (Set[int]): Set of line numbers marked with ?.
+        treat_uncertain_as_keep (bool): Whether to treat ? lines as keep (+) or remove (-).
+    """
+    with open(input_path, "r", encoding="utf-8") as infile, \
+         open(output_path, "w", encoding="utf-8", newline="") as outfile:
+
+        reader = csv.reader(infile, delimiter=";")
+        writer = csv.writer(outfile, delimiter=";")
+
+        for i, row in enumerate(reader, start=1):  # Line numbers start at 1
             if i in keep_lines or (treat_uncertain_as_keep and i in uncertain_lines):
                 writer.writerow(row)
             elif i in remove_lines or (not treat_uncertain_as_keep and i in uncertain_lines):
@@ -86,8 +86,10 @@ def filter_dataset(
                 writer.writerow(row)
 
 
-def main():
-    """Main execution function."""
+def main() -> None:
+    """
+    Main execution function.
+    """
     # Configure paths
     base_path = Path("Hym/Hymenoptera_toxins")
     input_path = base_path / "Dataset.csv"
@@ -107,15 +109,25 @@ def main():
 
     # Version 1: Treat ? as +
     print("Creating version with uncertain lines kept...")
-    filter_dataset(input_path, output_keep_uncertain, 
-                   keep_lines, remove_lines, uncertain_lines, 
-                   treat_uncertain_as_keep=True)
+    filter_dataset(
+        input_path,
+        output_keep_uncertain,
+        keep_lines,
+        remove_lines,
+        uncertain_lines,
+        treat_uncertain_as_keep=True,
+    )
 
     # Version 2: Treat ? as -
     print("Creating version with uncertain lines removed...")
-    filter_dataset(input_path, output_remove_uncertain, 
-                   keep_lines, remove_lines, uncertain_lines, 
-                   treat_uncertain_as_keep=False)
+    filter_dataset(
+        input_path,
+        output_remove_uncertain,
+        keep_lines,
+        remove_lines,
+        uncertain_lines,
+        treat_uncertain_as_keep=False,
+    )
 
     # Print summary
     print("\nProcessing complete!")
